@@ -1,0 +1,1418 @@
+fdc_id,data_type,description,food_category_id,publication_date
+319874,sample_food,hummus sabra classic,16.0,2019-04-01
+319877,sub_sample_food,hummus,16.0,2019-04-01
+319894,sample_food,hummus other,16.0,2019-04-01
+319958,sample_food,hummus tribe classic,16.0,2019-04-01
+320025,sample_food,milk 2 wave 22e,1.0,2019-04-01
+320027,sub_sample_food,milk 2,1.0,2019-04-01
+320354,market_acquisition,beef eye of round roast raw er37,13.0,2019-04-01
+320355,market_acquisition,beef eye of round steak raw es36,13.0,2019-04-01
+320380,sub_sample_food,se,13.0,2019-04-01
+320381,sub_sample_food,minerals,13.0,2019-04-01
+320385,sub_sample_food,b12 b6 b3 b2,13.0,2019-04-01
+320386,sub_sample_food,fa,13.0,2019-04-01
+320387,sub_sample_food,choles fa,13.0,2019-04-01
+320413,sample_food,tomatoes grape,11.0,2019-04-01
+321359,foundation_food,milk reduced fat fluid 2 milkfat with added vitamin a and vitamin d,1.0,2019-04-01
+321361,sample_food,salt morton iodized,2.0,2019-04-01
+321363,sub_sample_food,salt iodized,2.0,2019-04-01
+321366,sub_sample_food,salt not iodized,2.0,2019-04-01
+321373,sample_food,salt great value iodized,2.0,2019-04-01
+321379,sample_food,salt heb iodized,2.0,2019-04-01
+321406,sample_food,salt laura lynn iodized,2.0,2019-04-01
+321412,sample_food,salt essential everyday iodized,2.0,2019-04-01
+321429,sample_food,salt hy vee iodized,2.0,2019-04-01
+321458,sample_food,salt signature kitchens iodized,2.0,2019-04-01
+321464,sample_food,salt food club iodized,2.0,2019-04-01
+321475,sample_food,salt shop rite iodized,2.0,2019-04-01
+321505,foundation_food,salt table iodized,2.0,2019-04-01
+321506,sample_food,beans snap canned drained del monte,11.0,2019-04-01
+321510,sub_sample_food,beans snap canned drained,11.0,2019-04-01
+321557,sample_food,beans snap canned drained store brand,11.0,2019-04-01
+321591,sample_food,beans snap canned drained great value,11.0,2019-04-01
+321622,market_acquisition,broccoli raw ocean mist 4 bunches product of usa nc1,11.0,2019-04-01
+321632,market_acquisition,broccoli raw 4 bunches product of usa al1,11.0,2019-04-01
+321633,market_acquisition,broccoli raw 4 bunches ca1,11.0,2019-04-01
+321642,market_acquisition,broccoli raw 1 bunch ct1,11.0,2019-04-01
+321660,sub_sample_food,broccoli region 1 na yes proximates,11.0,2019-04-01
+321706,sub_sample_food,broccoli region 3 na yes proximates,11.0,2019-04-01
+321731,sub_sample_food,broccoli region 4 na yes proximates,11.0,2019-04-01
+321747,sub_sample_food,broccoli cooked region 4 na yes proximates,11.0,2019-04-01
+321775,sub_sample_food,broccoli region 2 na yes proximates,11.0,2019-04-01
+321793,sub_sample_food,broccoli cooked region 2 na yes proximates,11.0,2019-04-01
+321900,foundation_food,broccoli raw,11.0,2019-04-01
+321901,sample_food,milk 1wave 22e,1.0,2019-04-01
+321902,market_acquisition,milk 1 wave 22e,1.0,2019-04-01
+321903,sub_sample_food,milk 1,1.0,2019-04-01
+322022,sub_sample_food,milk skim,1.0,2019-04-01
+322041,sub_sample_food,milk skim wave 22e,1.0,2019-04-01
+322228,foundation_food,milk lowfat fluid 1 milkfat with added vitamin a and vitamin d,1.0,2019-04-01
+322559,foundation_food,milk nonfat fluid with added vitamin a and vitamin d fat free or skim,1.0,2019-04-01
+322560,sample_food,milk whole wave 22e,1.0,2019-04-01
+322562,sub_sample_food,milk whole,1.0,2019-04-01
+322892,foundation_food,milk whole 325 milkfat with added vitamin d,1.0,2019-04-01
+322893,sample_food,hot dogs beef ball park angus,7.0,2019-04-01
+322896,sub_sample_food,hot dogs beef,7.0,2019-04-01
+322955,sample_food,hot dogs beef oscar mayer premium jumbo,7.0,2019-04-01
+323044,sample_food,hot dogs beef hebrew national,7.0,2019-04-01
+323122,sample_food,almonds dry roasted salted blue diamond,12.0,2019-04-01
+323127,sub_sample_food,almonds dry roasted salted,12.0,2019-04-01
+323178,sample_food,almonds dry roasted salted emerald,12.0,2019-04-01
+323205,sample_food,almonds dry roasted salted store brand,12.0,2019-04-01
+323265,sample_food,almonds dry roasted salted snack artist,12.0,2019-04-01
+323280,sample_food,almonds dry roasted salted great value,12.0,2019-04-01
+323295,sample_food,cheese ricotta whole milk galbani,1.0,2019-04-01
+323304,sample_food,cheese ricotta whole milk sorrento,1.0,2019-04-01
+323321,sub_sample_food,ricotta cheese whole milk,1.0,2019-04-01
+323342,sample_food,cheese ricotta whole milk polly,1.0,2019-04-01
+323361,sample_food,cheese ricotta whole milk storeother,1.0,2019-04-01
+323378,sample_food,cheese ricotta whole milk lucerne,1.0,2019-04-01
+323444,foundation_food,cheese ricotta whole milk,1.0,2019-04-01
+323445,sample_food,kale fresh unprepared,11.0,2019-04-01
+323448,sub_sample_food,kale,11.0,2019-04-01
+323506,sample_food,egg liquid whole producer c lot 3,1.0,2019-04-01
+323507,market_acquisition,liquid whole egg plain no salt or sugar,1.0,2019-04-01
+323508,sub_sample_food,whole eggs,1.0,2019-04-01
+323513,sample_food,egg liquid whole producer d lot 3,1.0,2019-04-01
+323526,sub_sample_food,egg liquid whole producer d,1.0,2019-04-01
+323533,sub_sample_food,egg liquid whole producer c,1.0,2019-04-01
+323548,sample_food,egg liquid whole producer a lot 2,1.0,2019-04-01
+323562,sample_food,egg liquid whole producer f lot 3,1.0,2019-04-01
+323569,sample_food,egg liquid whole producer b lot 3,1.0,2019-04-01
+323582,sub_sample_food,egg liquid whole producer f,1.0,2019-04-01
+323596,sub_sample_food,egg liquid whole producer b,1.0,2019-04-01
+323605,sample_food,egg liquid white producer d lot 3,1.0,2019-04-01
+323606,market_acquisition,liquid egg white without whipping agents,1.0,2019-04-01
+323607,sub_sample_food,egg whites,1.0,2019-04-01
+323622,sample_food,egg liquid white producer c lot 3,1.0,2019-04-01
+323646,sample_food,egg liquid white producer a lot 3,1.0,2019-04-01
+323663,sample_food,egg liquid white producer f lot 3,1.0,2019-04-01
+323674,sample_food,egg liquid white producer b lot 3,1.0,2019-04-01
+323698,sample_food,egg dried white stabilized producer c lot 3,1.0,2019-04-01
+323699,market_acquisition,dried stabilized egg white,1.0,2019-04-01
+323700,sub_sample_food,egg whites dried,1.0,2019-04-01
+323705,sample_food,egg dried white stabilized producer e lot 3,1.0,2019-04-01
+323710,sub_sample_food,egg dried white stabilized producer e,1.0,2019-04-01
+323729,sub_sample_food,egg dried white stabilized producer c,1.0,2019-04-01
+323736,sample_food,egg dried white stabilized producer d lot 3,1.0,2019-04-01
+323747,sub_sample_food,egg dried white stabilized producer d,1.0,2019-04-01
+323748,sample_food,egg dried white stabilized producer b lot 3,1.0,2019-04-01
+323753,sub_sample_food,egg dried white stabilized producer b,1.0,2019-04-01
+323774,sample_food,egg dried white stabilized producer a lot 3,1.0,2019-04-01
+323786,sub_sample_food,egg dried white stabilized producer a,1.0,2019-04-01
+323794,sample_food,salsa tostitos chunky,6.0,2019-04-01
+323799,sub_sample_food,salsa,6.0,2019-04-01
+323841,sample_food,salsa pace chunky,6.0,2019-04-01
+323888,market_acquisition,salsa tostitos chunky medium fl1,6.0,2019-04-01
+323889,market_acquisition,salsa tostitos chunky medium mo1,6.0,2019-04-01
+323897,market_acquisition,salsa tostitos chunky medium ct1,6.0,2019-04-01
+323898,market_acquisition,salsa tostitos chunky medium co1,6.0,2019-04-01
+323906,market_acquisition,salsa tostitos chunky medium al1,6.0,2019-04-01
+323907,market_acquisition,salsa tostitos chunky medium ca1,6.0,2019-04-01
+323915,market_acquisition,salsa tostitos chunky medium in1,6.0,2019-04-01
+323916,market_acquisition,salsa tostitos chunky medium ny1,6.0,2019-04-01
+323932,market_acquisition,salsa tostitos chunky medium nc1,6.0,2019-04-01
+323933,market_acquisition,salsa tostitos chunky medium ca2,6.0,2019-04-01
+323948,market_acquisition,salsa tostitos chunky medium mi1,6.0,2019-04-01
+323949,market_acquisition,salsa tostitos chunky medium ok1,6.0,2019-04-01
+323964,market_acquisition,salsa pace chunky medium ca1,6.0,2019-04-01
+323965,market_acquisition,salsa pace chunky medium al1,6.0,2019-04-01
+323974,market_acquisition,salsa pace chunky medium ny1,6.0,2019-04-01
+323989,market_acquisition,salsa pace chunky medium nc1,6.0,2019-04-01
+323991,market_acquisition,salsa pace chunky medium ca2,6.0,2019-04-01
+324004,market_acquisition,salsa pace chunky medium ct1,6.0,2019-04-01
+324005,market_acquisition,salsa pace chunky medium co1,6.0,2019-04-01
+324013,market_acquisition,salsa pace chunky medium fl1,6.0,2019-04-01
+324014,market_acquisition,salsa pace chunky medium mo1,6.0,2019-04-01
+324022,market_acquisition,salsa pace chunky medium mi1,6.0,2019-04-01
+324023,market_acquisition,salsa pace chunky medium ok1,6.0,2019-04-01
+324038,foundation_food,sauce salsa ready,6.0,2019-04-01
+324039,sample_food,beef breakfast sausage banquet brown n serve sausage links,7.0,2019-04-01
+324053,sample_food,beef breakfast sausage eckrich sausage links,7.0,2019-04-01
+324135,sample_food,beef breakfast sausage banquet brown n serve sausage links maple flavor,7.0,2019-04-01
+324157,foundation_food,sausage breakfast sausage beef pre,7.0,2019-04-01
+324158,sample_food,onion rings frozen oven,11.0,2019-04-01
+324159,market_acquisition,alexia onion rings frozen ca2,11.0,2019-04-01
+324160,market_acquisition,alexia onion rings frozen nc1,11.0,2019-04-01
+324171,market_acquisition,ore,11.0,2019-04-01
+324175,sub_sample_food,minerals onion rings frozen ore,11.0,2019-04-01
+324176,sub_sample_food,proximates onion rings frozen ore,11.0,2019-04-01
+324178,market_acquisition,alexia onion rings frozen mo1,11.0,2019-04-01
+324179,market_acquisition,alexia onion rings frozen fl,11.0,2019-04-01
+324200,sub_sample_food,tocopherols onion rings frozen ore,11.0,2019-04-01
+324201,sub_sample_food,folate onion rings frozen ore,11.0,2019-04-01
+324203,sub_sample_food,niacin onion rings frozen ore,11.0,2019-04-01
+324204,sub_sample_food,riboflavin onion rings frozen ore,11.0,2019-04-01
+324205,sub_sample_food,selenium onion rings frozen ore,11.0,2019-04-01
+324206,sub_sample_food,sugars onion rings frozen ore,11.0,2019-04-01
+324208,sub_sample_food,fatty acids onion rings frozen ore,11.0,2019-04-01
+324210,sub_sample_food,starch onion rings frozen ore,11.0,2019-04-01
+324211,sub_sample_food,tdf onion rings frozen ore,11.0,2019-04-01
+324212,sub_sample_food,thiamin onion rings frozen ore,11.0,2019-04-01
+324213,sub_sample_food,vitamin b6 onion rings frozen ore,11.0,2019-04-01
+324215,market_acquisition,alexia onion rings frozen co1,11.0,2019-04-01
+324216,market_acquisition,alexia onion rings frozen ct1,11.0,2019-04-01
+324251,sub_sample_food,pantothenic acid onion rings frozen ore,11.0,2019-04-01
+324253,market_acquisition,alexia onion rings frozen in1,11.0,2019-04-01
+324254,market_acquisition,alexia onion rings frozen ny1,11.0,2019-04-01
+324260,market_acquisition,kroger onion rings frozen in1,11.0,2019-04-01
+324262,market_acquisition,kroger sweet onion rings frozen co1,11.0,2019-04-01
+324298,market_acquisition,alexia onion rings frozen ok1,11.0,2019-04-01
+324299,market_acquisition,alexia onion rings frozen al 1,11.0,2019-04-01
+324319,market_acquisition,pickles kosher dill spears vlasic fl,11.0,2019-04-01
+324320,market_acquisition,pickles kosher dill spears vlasic mo1,11.0,2019-04-01
+324326,market_acquisition,pickles kosher dill spears vlasic nc1,11.0,2019-04-01
+324327,market_acquisition,pickles kosher dill spears vlasic ca2,11.0,2019-04-01
+324333,market_acquisition,pickles kosher dill spears vlasic in1,11.0,2019-04-01
+324335,market_acquisition,pickles kosher dill spears vlasic ny,11.0,2019-04-01
+324340,market_acquisition,pickles kosher dill spears vlasic co1,11.0,2019-04-01
+324341,market_acquisition,pickles kosher dill spears vlasic ct1,11.0,2019-04-01
+324353,market_acquisition,pickles kosher dill spears clausen in1,11.0,2019-04-01
+324355,market_acquisition,pickles kosher dill spears clausen ny,11.0,2019-04-01
+324360,market_acquisition,pickles kosher dill spears clausen nc1,11.0,2019-04-01
+324362,market_acquisition,pickles kosher dill spears clausen ca2,11.0,2019-04-01
+324367,market_acquisition,pickles kosher dill spears vlasic mi1,11.0,2019-04-01
+324368,market_acquisition,pickles kosher dill spears vlasic ok1,11.0,2019-04-01
+324384,market_acquisition,pickles kosher dill spears vlasic ca1,11.0,2019-04-01
+324386,market_acquisition,pickles kosher dill spears vlasic al1,11.0,2019-04-01
+324402,market_acquisition,pickles kosher dill spears clausen ct1,11.0,2019-04-01
+324403,market_acquisition,pickles kosher dill spears clausen co1,11.0,2019-04-01
+324415,market_acquisition,pickles kosher dill spears clausen mi1,11.0,2019-04-01
+324416,market_acquisition,pickles kosher dill spears clausen ok1,11.0,2019-04-01
+324422,market_acquisition,pickles kosher dill spears clausen ca1,11.0,2019-04-01
+324424,market_acquisition,pickles kosher dill spears clausen al1,11.0,2019-04-01
+324439,market_acquisition,pickles kosher dill spears store brand americas choice ny,11.0,2019-04-01
+324440,market_acquisition,pickles kosher dill spears store brand shop rite ct1,11.0,2019-04-01
+324446,market_acquisition,pickles kosher dill spears store brand publix fl,11.0,2019-04-01
+324447,market_acquisition,pickles kosher dill spears store brand hy vee mo1,11.0,2019-04-01
+324453,market_acquisition,pickles kosher dill spears store brand food lion nc1,11.0,2019-04-01
+324454,market_acquisition,pickles kosher dill spears store brand sunny select ca2,11.0,2019-04-01
+324473,market_acquisition,pickles kosher dill spears store brand great value al1,11.0,2019-04-01
+324475,market_acquisition,pickles kosher dill spears store brand great value ok1,11.0,2019-04-01
+324486,market_acquisition,pickles kosher dill spears clausen mo1,11.0,2019-04-01
+324487,market_acquisition,pickles kosher dill spears clausen fl,11.0,2019-04-01
+324502,sample_food,pickles kosher dill spears claussen,11.0,2019-04-01
+324505,sub_sample_food,pickles kosher dill,11.0,2019-04-01
+324515,market_acquisition,pickles kosher dill spears store brand kroger mi1,11.0,2019-04-01
+324516,market_acquisition,pickles kosher dill spears store brand kroger in1,11.0,2019-04-01
+324561,sample_food,pickles kosher dill spears mt olive,11.0,2019-04-01
+324598,sample_food,pickles kosher dill spears vlasic,11.0,2019-04-01
+324645,sample_food,pickles kosher dill spears other,11.0,2019-04-01
+324655,market_acquisition,peanut butter creamy skippy mi1,16.0,2019-04-01
+324663,market_acquisition,peanut butter creamy skippy in1,16.0,2019-04-01
+324690,market_acquisition,peanut butter creamy skippy mo1,16.0,2019-04-01
+324692,market_acquisition,peanut butter creamy skippy fl,16.0,2019-04-01
+324755,market_acquisition,peanut butter creamy store brandother brand americas choice ny,16.0,2019-04-01
+324799,market_acquisition,peanut butter creamy store brandother brand publix fl,16.0,2019-04-01
+324855,market_acquisition,peanut butter creamy skippy nc1,16.0,2019-04-01
+324862,market_acquisition,parmesan cheese grated kraft 100 fl,1.0,2019-04-01
+324864,market_acquisition,parmesan cheese grated kraft 100 mo1,1.0,2019-04-01
+324872,market_acquisition,parmesan cheese grated kraft 100 ny,1.0,2019-04-01
+324874,market_acquisition,parmesan cheese grated kraft 100 in1,1.0,2019-04-01
+324882,market_acquisition,parmesan cheese grated kraft 100 nc1,1.0,2019-04-01
+324883,market_acquisition,parmesan cheese grated kraft 100 ca2,1.0,2019-04-01
+324892,market_acquisition,parmesan cheese grated kraft 100 al1,1.0,2019-04-01
+324893,market_acquisition,parmesan cheese grated kraft 100 ca1,1.0,2019-04-01
+324914,market_acquisition,parmesan cheese grated store brandother brand price chopper ct1,1.0,2019-04-01
+324922,market_acquisition,parmesan cheese grated kraft 100 ct1,1.0,2019-04-01
+324925,market_acquisition,parmesan cheese grated kraft 100 co1,1.0,2019-04-01
+324941,market_acquisition,parmesan cheese grated kraft 100 ok1,1.0,2019-04-01
+324942,market_acquisition,parmesan cheese grated kraft 100 mi1,1.0,2019-04-01
+324961,market_acquisition,parmesan cheese grated store brandother brand my essentials 100 nc1,1.0,2019-04-01
+324962,market_acquisition,parmesan cheese grated store brandother brand sunnyside farms 100 ca2,1.0,2019-04-01
+324971,market_acquisition,parmesan cheese grated store brandother brand great value ok1,1.0,2019-04-01
+324972,market_acquisition,parmesan cheese grated store brandother brand great value al1,1.0,2019-04-01
+324990,market_acquisition,parmesan cheese grated store brandother brand safeway kitchens ca1,1.0,2019-04-01
+324991,market_acquisition,parmesan cheese grated store brandother brand safeway kitchens co1,1.0,2019-04-01
+325008,market_acquisition,parmesan cheese grated store brandother brand flora fine foods 100 pure fl,1.0,2019-04-01
+325009,market_acquisition,parmesan cheese grated store brandother brand hyvee 100 mo1,1.0,2019-04-01
+325018,market_acquisition,parmesan cheese grated store brandother brand kroger in1,1.0,2019-04-01
+325019,market_acquisition,parmesan cheese grated store brandother brand kroger mi1,1.0,2019-04-01
+325038,market_acquisition,american cheese pasteurized process best choice deluxe ok,1.0,2019-04-01
+325040,market_acquisition,american cheese pasteurized process great value deluxe al,1.0,2019-04-01
+325042,sub_sample_food,proximates american cheese pasteurized process mixed store brand,1.0,2019-04-01
+325047,market_acquisition,american cheese pasteurized process kraft ny,1.0,2019-04-01
+325049,market_acquisition,american cheese pasteurized process kraft in,1.0,2019-04-01
+325051,sub_sample_food,minerals american cheese pasteurized process kraft,1.0,2019-04-01
+325056,sub_sample_food,proximates american cheese pasteurized process kraft,1.0,2019-04-01
+325057,sub_sample_food,riboflavin american cheese pasteurized process kraft,1.0,2019-04-01
+325059,sub_sample_food,vitamin b12 american cheese pasteurized process kraft,1.0,2019-04-01
+325062,market_acquisition,american cheese pasteurized process kraft ca,1.0,2019-04-01
+325063,market_acquisition,american cheese pasteurized process kraft deli deluxe nc,1.0,2019-04-01
+325075,sample_food,american cheese pasteurized process land,1.0,2019-04-01
+325097,market_acquisition,american cheese pasteurized process kroger deluxe in,1.0,2019-04-01
+325098,market_acquisition,american cheese pasteurized process shop rite singles ct,1.0,2019-04-01
+325101,sample_food,american cheese pasteurized process kraft deli deluxe co,1.0,2019-04-01
+325104,sub_sample_food,minerals american cheese pasteurized process kraft deli deluxe,1.0,2019-04-01
+325105,sub_sample_food,proximates american cheese pasteurized process kraft deli deluxe,1.0,2019-04-01
+325108,market_acquisition,american cheese pasteurized process kraft mi,1.0,2019-04-01
+325109,market_acquisition,american cheese pasteurized process kraft ok,1.0,2019-04-01
+325115,market_acquisition,american cheese pasteurized process hyvee deluxe sliced mo,1.0,2019-04-01
+325116,market_acquisition,american cheese pasteurized process sunnyside farms deluxe slices ca,1.0,2019-04-01
+325117,sub_sample_food,fatty acids american cheese pasteurized process mixed store brand,1.0,2019-04-01
+325120,market_acquisition,american cheese pasteurized process kraft al,1.0,2019-04-01
+325132,sub_sample_food,minerals american cheese pasteurized process kroger deluxe,1.0,2019-04-01
+325134,market_acquisition,american cheese pasteurized process lucerne deluxe slices co,1.0,2019-04-01
+325135,market_acquisition,american cheese pasteurized process lucerne deluxe slices ca,1.0,2019-04-01
+325141,market_acquisition,american cheese pasteurized process kraft fl,1.0,2019-04-01
+325148,sample_food,american cheese pasteurized process kroger deluxe mi,1.0,2019-04-01
+325160,sub_sample_food,minerals american cheese pasteurized process lucerne deluxe slices,1.0,2019-04-01
+325161,sample_food,american cheese pasteurized process havily cheese company mo,1.0,2019-04-01
+325165,market_acquisition,american cheese pasteurized process publix deluxe fl,1.0,2019-04-01
+325195,market_acquisition,american cheese pasteurized process tropical deluxe ny,1.0,2019-04-01
+325199,sample_food,grapefruit juice white shelf stable store brand,9.0,2019-04-01
+325201,sub_sample_food,grapefruit juice white shelf stable,9.0,2019-04-01
+325219,sample_food,grapefruit juice white shelf stable ocean spray,9.0,2019-04-01
+325263,sample_food,grapefruit juice white shelf stable signature kitchen,9.0,2019-04-01
+325291,sub_sample_food,peaches raw region 2 na yes,9.0,2019-04-01
+325309,sub_sample_food,peaches raw region 4 na yes,9.0,2019-04-01
+325326,sub_sample_food,peaches raw region 1 na yes,9.0,2019-04-01
+325345,sub_sample_food,peaches raw region 3 na yes,9.0,2019-04-01
+325431,sample_food,sunflower seeds dry roasted salted storeother,12.0,2019-04-01
+325437,sub_sample_food,sunflower seeds dry roasted salted,12.0,2019-04-01
+325439,sample_food,sunflower seeds dry roasted salted planters,12.0,2019-04-01
+325525,sample_food,italian pork sausage storeother cooked,7.0,2019-04-01
+325536,market_acquisition,italian pork sausage great value cooked,7.0,2019-04-01
+325549,sample_food,italian pork sausage kroger cooked,7.0,2019-04-01
+325554,sub_sample_food,italian pork sausage cooked,7.0,2019-04-01
+325572,sample_food,italian pork sausage johnsonville hot cooked,7.0,2019-04-01
+325598,sample_food,italian pork sausage johnsonville mild cooked,7.0,2019-04-01
+325658,foundation_food,sausage italian pork mild cooked pan,7.0,2019-04-01
+325660,market_acquisition,white bread store brand kroger bread 20 oz package in,18.0,2019-04-01
+325661,market_acquisition,white bread store brand americas choice large white 20 oz package ny,18.0,2019-04-01
+325670,market_acquisition,white bread store brand kroger bread 20 oz package mi,18.0,2019-04-01
+325671,market_acquisition,white bread store brand great value white 24 oz package ok,18.0,2019-04-01
+325680,market_acquisition,white bread store brand sunnyside farms bread 20 oz package ca2,18.0,2019-04-01
+325681,market_acquisition,white bread store brand lowes food store 20 oz package nc,18.0,2019-04-01
+325689,sample_food,white bread store brand publix bread fl1,18.0,2019-04-01
+325690,market_acquisition,white bread store brand publix bread 20 oz package fl,18.0,2019-04-01
+325699,market_acquisition,white bread store brand safeway premium white 22 oz package ca1,18.0,2019-04-01
+325700,market_acquisition,white bread store brand food world sandwich bread 20 oz package al,18.0,2019-04-01
+325709,market_acquisition,white bread store brand shop rite round top white 22 oz package ct,18.0,2019-04-01
+325710,market_acquisition,white bread store brand safeway premium white 22 oz package co,18.0,2019-04-01
+325872,sample_food,turkey breakfast sausage honeysuckle white,7.0,2019-04-01
+325881,sample_food,turkey breakfast sausage hillshire smoked,7.0,2019-04-01
+325891,sample_food,turkey breakfast sausage jimmy dean,7.0,2019-04-01
+325929,sample_food,turkey breakfast sausage jennie o,7.0,2019-04-01
+325948,sample_food,turkey breakfast sausage honeysuckle fresh,7.0,2019-04-01
+325956,sample_food,turkey breakfast sausage butterball,7.0,2019-04-01
+325992,foundation_food,sausage turkey breakfast links mild raw,7.0,2019-04-01
+326007,sub_sample_food,fatty acids cheese swiss slices al ca1,1.0,2019-04-01
+326008,sub_sample_food,minerals cheese swiss slices al ca1,1.0,2019-04-01
+326009,sub_sample_food,proximates cheese swiss slices al ca1,1.0,2019-04-01
+326135,foundation_food,cheese swiss,1.0,2019-04-01
+326136,sample_food,kale frozen cooked,11.0,2019-04-01
+326137,market_acquisition,kale frozen as purchased,11.0,2019-04-01
+326210,sub_sample_food,carrots sliced or crinkle cut frozen unprepared,11.0,2019-04-01
+326264,sub_sample_food,carrots sliced or crinkle cut frozen unprepared vitamin e,11.0,2019-04-01
+326327,sub_sample_food,carrots whole unprepared,11.0,2019-04-01
+326424,sub_sample_food,carrots whole frozen unprepared,11.0,2019-04-01
+326425,sub_sample_food,carrots whole unprepared vitamin e,11.0,2019-04-01
+326426,sub_sample_food,carrots whole unprepared amino acids repeat,11.0,2019-04-01
+326460,market_acquisition,mustard yellow frenchs classic ca2,2.0,2019-04-01
+326462,market_acquisition,mustard yellow frenchs classic nc1,2.0,2019-04-01
+326467,market_acquisition,mustard yellow frenchs classic mo1,2.0,2019-04-01
+326469,market_acquisition,mustard yellow frenchs classic fl1,2.0,2019-04-01
+326474,market_acquisition,mustard yellow frenchs classic ny1,2.0,2019-04-01
+326475,market_acquisition,mustard yellow frenchs classic in1,2.0,2019-04-01
+326481,market_acquisition,mustard yellow store brand americas choice ny,2.0,2019-04-01
+326482,market_acquisition,mustard yellow store brand shop rite ct1,2.0,2019-04-01
+326488,market_acquisition,mustard yellow store brand my essentials nc1,2.0,2019-04-01
+326490,market_acquisition,mustard yellow store brand sunny select ca2,2.0,2019-04-01
+326495,market_acquisition,mustard yellow frenchs classic ct1,2.0,2019-04-01
+326496,market_acquisition,mustard yellow frenchs classic co1,2.0,2019-04-01
+326511,market_acquisition,mustard yellow frenchs classic ok1,2.0,2019-04-01
+326512,market_acquisition,mustard yellow frenchs classic mi1,2.0,2019-04-01
+326530,market_acquisition,mustard yellow store brand publix fl,2.0,2019-04-01
+326533,market_acquisition,mustard yellow store brand hy vee mo1,2.0,2019-04-01
+326538,market_acquisition,mustard yellow frenchs classic ca1,2.0,2019-04-01
+326539,market_acquisition,mustard yellow frenchs classic al1,2.0,2019-04-01
+326559,market_acquisition,mustard yellow store brand safeway co1,2.0,2019-04-01
+326560,market_acquisition,mustard yellow store brand safeway ca1,2.0,2019-04-01
+326573,market_acquisition,mustard yellow store brand great value ok1,2.0,2019-04-01
+326574,market_acquisition,mustard yellow store brand great value al1,2.0,2019-04-01
+326592,market_acquisition,mustard yellow store brand kroger mi1,2.0,2019-04-01
+326594,market_acquisition,mustard yellow store brand kroger in1,2.0,2019-04-01
+326606,market_acquisition,prepared yellow mustard frenchs classic yellow mustard tx,2.0,2019-04-01
+326608,market_acquisition,prepared yellow mustard frenchs classic yellow mustard pa,2.0,2019-04-01
+326616,market_acquisition,prepared yellow mustard frenchs classic yellow mustard wa,2.0,2019-04-01
+326637,market_acquisition,prepared yellow mustard store brand tx,2.0,2019-04-01
+326642,market_acquisition,prepared yellow mustard store brand wa,2.0,2019-04-01
+326644,market_acquisition,prepared yellow mustard store brand pa,2.0,2019-04-01
+326649,sub_sample_food,mustard yellow prepared store brand vitmain e,2.0,2019-04-01
+326650,sub_sample_food,mustard yellow prepared store brand niacin,2.0,2019-04-01
+326651,sub_sample_food,mustard yellow prepared store brand pantothenic acid,2.0,2019-04-01
+326652,sub_sample_food,mustard yellow prepared store brand vitamin b6,2.0,2019-04-01
+326653,sub_sample_food,mustard yellow prepared store brand fatty acids,2.0,2019-04-01
+326654,sub_sample_food,mustard yellow prepared store brand proximates,2.0,2019-04-01
+326655,sub_sample_food,mustard yellow prepared store brand starch,2.0,2019-04-01
+326656,sub_sample_food,mustard yellow prepared store brand vitamin k,2.0,2019-04-01
+326657,sub_sample_food,mustard yellow prepared store brand sugars,2.0,2019-04-01
+326658,sub_sample_food,mustard yellow prepared store brand thiamin,2.0,2019-04-01
+326659,sub_sample_food,mustard yellow prepared store brand riboflavin,2.0,2019-04-01
+326660,sub_sample_food,mustard yellow prepared store brand amino acids,2.0,2019-04-01
+326661,sub_sample_food,mustard yellow prepared store brand fiber,2.0,2019-04-01
+326662,sub_sample_food,mustard yellow prepared store brand vitamin c,2.0,2019-04-01
+326663,sub_sample_food,mustard yellow prepared store brand carotenoids,2.0,2019-04-01
+326664,sub_sample_food,mustard yellow prepared store brand minerals,2.0,2019-04-01
+326665,sub_sample_food,mustard yellow prepared store brand folate,2.0,2019-04-01
+326666,sub_sample_food,mustard yellow prepared store brand selenium,2.0,2019-04-01
+326674,market_acquisition,prepared yellow mustard other brand pa,2.0,2019-04-01
+326762,sub_sample_food,figs dried pass 2 region 1 na no niacin,9.0,2019-04-01
+326763,sub_sample_food,figs dried pass 2 region 1 na no fiber,9.0,2019-04-01
+326764,sub_sample_food,figs dried pass 2 region 1 na no minerals,9.0,2019-04-01
+326765,sub_sample_food,figs dried pass 2 region 1 na no proximates,9.0,2019-04-01
+326789,sub_sample_food,figs dried pass 2 region 2 na yes proximates,9.0,2019-04-01
+326790,sub_sample_food,figs dried pass 2 region 2 na yes minerals,9.0,2019-04-01
+326792,sub_sample_food,figs dried pass 2 region 2 na yes fiber,9.0,2019-04-01
+326796,sub_sample_food,figs dried pass 2 region 2 na yes niacin,9.0,2019-04-01
+326837,sub_sample_food,figs dried pass 2 region 4 na yes proximates,9.0,2019-04-01
+326838,sub_sample_food,figs dried pass 2 region 4 na yes minerals,9.0,2019-04-01
+326840,sub_sample_food,figs dried pass 2 region 4 na yes fiber,9.0,2019-04-01
+326844,sub_sample_food,figs dried pass 2 region 4 na yes niacin,9.0,2019-04-01
+326863,sub_sample_food,figs dried pass 2 region 3 na yes proximates,9.0,2019-04-01
+326864,sub_sample_food,figs dried pass 2 region 3 na yes minerals,9.0,2019-04-01
+326866,sub_sample_food,figs dried pass 2 region 3 na yes fiber,9.0,2019-04-01
+326870,sub_sample_food,figs dried pass 2 region 3 na yes niacin,9.0,2019-04-01
+326905,foundation_food,figs dried uncooked,9.0,2019-04-01
+326972,sub_sample_food,kiwi pass 2 region 1 na yes minerals,9.0,2019-04-01
+327051,sub_sample_food,cantaloupe raw region 2 na yes,9.0,2019-04-01
+327069,sub_sample_food,cantaloupe raw region 3 na yes,9.0,2019-04-01
+327089,sub_sample_food,cantaloupe raw region 1 na yes,9.0,2019-04-01
+327109,sub_sample_food,cantaloupe raw region 4 na yes,9.0,2019-04-01
+327198,foundation_food,melons cantaloupe raw,9.0,2019-04-01
+327213,sub_sample_food,nectarines raw pass 2 region 2 na yes folate,9.0,2019-04-01
+327221,sub_sample_food,nectarines fresh region 2 na yes,9.0,2019-04-01
+327240,sub_sample_food,nectarines fresh region 4 na yes,9.0,2019-04-01
+327262,sub_sample_food,nectarines raw pass 2 region 1 na yes folate,9.0,2019-04-01
+327282,sub_sample_food,nectarines fresh region 3 na yes,9.0,2019-04-01
+327312,sub_sample_food,nectarines raw pass 2 region 3 na yes folate,9.0,2019-04-01
+327331,sub_sample_food,nectarines raw pass 2 region 4 na yes folate,9.0,2019-04-01
+327340,sub_sample_food,nectarines fresh region 1 na yes,9.0,2019-04-01
+327362,sub_sample_food,oranges navel pass 2 region 2 na yes,9.0,2019-04-01
+327378,sub_sample_food,oranges navel pass 2 region 4 na yes,9.0,2019-04-01
+327395,sub_sample_food,oranges navel pass 2 region 3 na yes,9.0,2019-04-01
+327414,sub_sample_food,oranges navel raw region 1 na yes proximates,9.0,2019-04-01
+327432,sub_sample_food,oranges navel raw region 2 na yes proximates,9.0,2019-04-01
+327454,sub_sample_food,oranges navel raw region 4 na yes proximates,9.0,2019-04-01
+327470,sub_sample_food,oranges navel raw region 3 na yes proximates,9.0,2019-04-01
+327489,sub_sample_food,oranges navel pass 2 region 1 na yes,9.0,2019-04-01
+327503,market_acquisition,strawberries fresh pass 2 region 2 safewaystore store 1078 orwa3,9.0,2019-04-01
+327506,market_acquisition,strawberries fresh pass 2 region 2 albertsonsstore store 687 ca1,9.0,2019-04-01
+327508,market_acquisition,strawberries fresh pass 2 region 2 albertsonsstore store 584 orwa2,9.0,2019-04-01
+327511,sub_sample_food,strawberries fresh pass 2 region 2 na yes,9.0,2019-04-01
+327536,sub_sample_food,strawberries fresh region 4 na yes,9.0,2019-04-01
+327562,sub_sample_food,strawberries fresh region 3 na yes,9.0,2019-04-01
+327588,sub_sample_food,strawberries fresh region 2 na yes,9.0,2019-04-01
+327603,market_acquisition,strawberries fresh pass 2 region 1 walmart supercenter store 67 ar1,9.0,2019-04-01
+327606,market_acquisition,strawberries fresh pass 2 region 1 krogerstore store 528 tn2,9.0,2019-04-01
+327609,market_acquisition,strawberries fresh pass 2 region 1 pricecutter mo2,9.0,2019-04-01
+327612,sub_sample_food,strawberries fresh pass 2 region 1 na yes,9.0,2019-04-01
+327636,sub_sample_food,strawberries fresh region 1 na yes,9.0,2019-04-01
+327653,market_acquisition,strawberries fresh pass 2 region 4,9.0,2019-04-01
+327656,market_acquisition,strawberries fresh pass 2 region 4 gianteagle market store 70 pa2,9.0,2019-04-01
+327659,sub_sample_food,strawberries fresh pass 2 region 4 na yes,9.0,2019-04-01
+327676,market_acquisition,strawberries fresh pass 2 region 3 walmart supercenter store 651 tx3,9.0,2019-04-01
+327678,market_acquisition,strawberries fresh pass 2 region 3 krogerstore store 986 tx2,9.0,2019-04-01
+327681,market_acquisition,strawberries fresh pass 2 region 3 dominicksfiner foods store 126 il2,9.0,2019-04-01
+327685,sub_sample_food,strawberries fresh pass 2 region 3 na yes,9.0,2019-04-01
+327699,foundation_food,strawberries raw,9.0,2019-04-01
+327707,market_acquisition,lettuce romaine 1 head ok1,11.0,2019-04-01
+327714,market_acquisition,lettuce romaine 1 head al1,11.0,2019-04-01
+327721,market_acquisition,lettuce romaine in1,11.0,2019-04-01
+327729,market_acquisition,lettuce romaine 1 head nc1,11.0,2019-04-01
+327736,market_acquisition,lettuce romaine 1 head ct1,11.0,2019-04-01
+327751,sub_sample_food,romaine lettuce pass 2 region 4,11.0,2019-04-01
+327769,sub_sample_food,romaine lettuce pass 2 region 3,11.0,2019-04-01
+327789,sub_sample_food,romaine lettuce pass 2 region 1,11.0,2019-04-01
+327814,sub_sample_food,romaine lettuce pass 2 region 2,11.0,2019-04-01
+327835,sub_sample_food,romaine lettuce region 1 na yes,11.0,2019-04-01
+327860,sub_sample_food,romaine lettuce region 2 na yes,11.0,2019-04-01
+327883,sub_sample_food,romaine lettuce region 3 na yes,11.0,2019-04-01
+327908,sub_sample_food,romaine lettuce region 4 na yes,11.0,2019-04-01
+327923,foundation_food,lettuce cos or romaine raw,11.0,2019-04-01
+327925,market_acquisition,cheddar cheese sliced cracker barrel ny,1.0,2019-04-01
+327926,market_acquisition,cheddar cheese sliced cracker barrel nc1,1.0,2019-04-01
+327937,market_acquisition,cheddar cheese sliced tillamook ca1,1.0,2019-04-01
+327939,market_acquisition,cheddar cheese sliced tillamook co1,1.0,2019-04-01
+327949,market_acquisition,cheddar cheese sliced cracker barrel mo1,1.0,2019-04-01
+327950,market_acquisition,cheddar cheese sliced cracker barrel fl,1.0,2019-04-01
+327961,market_acquisition,cheddar cheese sliced cracker barrel al1,1.0,2019-04-01
+327962,market_acquisition,cheddar cheese sliced cracker barrel ct1,1.0,2019-04-01
+327981,market_acquisition,cheddar cheese sliced cracker barrel mi1,1.0,2019-04-01
+327998,sample_food,cheddar cheese sliced sargento sharp ny,1.0,2019-04-01
+328005,sub_sample_food,fatty acids cheddar cheese sliced sargento sharp ny,1.0,2019-04-01
+328009,market_acquisition,cheddar cheese sliced sargento natural sharp cheddar deli style ca2,1.0,2019-04-01
+328010,market_acquisition,cheddar cheese sliced sargento natural sharp cheddar deli style in1,1.0,2019-04-01
+328021,market_acquisition,cheddar cheese sliced tillamook ca2,1.0,2019-04-01
+328022,market_acquisition,cheddar cheese sliced tillamook in1,1.0,2019-04-01
+328046,market_acquisition,cheddar cheese sliced storebrand kroger mild cheddar all natural in1,1.0,2019-04-01
+328048,market_acquisition,cheddar cheese sliced storebrand kroger sharp cheddar all natural mi1,1.0,2019-04-01
+328058,market_acquisition,cheddar cheese sliced store brand crystal farms wisconsin sharp ny,1.0,2019-04-01
+328060,market_acquisition,cheddar cheese sliced store brand shullsburg wisconsin cheese sharp mo1,1.0,2019-04-01
+328067,sub_sample_food,fatty acids cheddar cheese sliced store brand crystal farms shullsburg wisconsin mony,1.0,2019-04-01
+328071,market_acquisition,cheddar cheese sliced sargento natural sharp cheddar deli style ca1,1.0,2019-04-01
+328072,market_acquisition,cheddar cheese sliced sargento sharp al1,1.0,2019-04-01
+328095,market_acquisition,cheddar cheese sliced sargento sharp ct1,1.0,2019-04-01
+328096,market_acquisition,cheddar cheese sliced sargento sharp mi1,1.0,2019-04-01
+328114,sample_food,cheddar cheese sliced store brand sunnyside farms deli style sliced medium ca2,1.0,2019-04-01
+328123,market_acquisition,cheddar cheese sliced store brand publix sharp cheddar cheese fl,1.0,2019-04-01
+328124,market_acquisition,cheddar cheese sliced store brand hyvee cracker cuts sharp cheddar natural cheese mo1,1.0,2019-04-01
+328131,market_acquisition,cheddar cheese sliced store brand lucerne sliced sharp cheddar natural cheese co1,1.0,2019-04-01
+328134,market_acquisition,cheddar cheese sliced store brand lucerne sliced sharp cheddar natural cheese ca1,1.0,2019-04-01
+328154,market_acquisition,cheddar cheese sliced store brand great value deli style sliced sharp al1,1.0,2019-04-01
+328155,market_acquisition,cheddar cheese sliced store brand great value deli style sharp cheddar ok1,1.0,2019-04-01
+328176,market_acquisition,cheddar cheese sliced store brand shop rite sharp cheddar cheese ct1,1.0,2019-04-01
+328192,market_acquisition,cheddar cheese sliced store brand food lion natural sharp nc1,1.0,2019-04-01
+328534,sub_sample_food,minerals cheese cheddar sharp blockchunk kraft inga,1.0,2019-04-01
+328639,market_acquisition,cottage cheese 2 milkfat breakstone ct1,1.0,2019-04-01
+328640,market_acquisition,cottage cheese 2 milkfat breakstone nc1,1.0,2019-04-01
+328646,sample_food,cottage cheese 2 milkfat breakstone fl,1.0,2019-04-01
+328653,market_acquisition,cottage cheese 2 milkfat daisy ca2,1.0,2019-04-01
+328654,market_acquisition,cottage cheese 2 milkfat store brandother brand hy vee mo1,1.0,2019-04-01
+328661,market_acquisition,cottage cheese 2 milkfat daisy co1,1.0,2019-04-01
+328662,market_acquisition,cottage cheese 2 milkfat daisy ca1,1.0,2019-04-01
+328680,market_acquisition,cottage cheese 2 milkfat breakstone al1,1.0,2019-04-01
+328682,market_acquisition,cottage cheese 2 milkfat breakstone in1,1.0,2019-04-01
+328696,market_acquisition,cottage cheese 2 milkfat breakstone mi1,1.0,2019-04-01
+328698,market_acquisition,cottage cheese 2 milkfat breakstone ok1,1.0,2019-04-01
+328714,market_acquisition,cottage cheese 2 milkfat store brandother brand meadow gold viva co1,1.0,2019-04-01
+328715,market_acquisition,cottage cheese 2 milkfat store brandother brand kraft simply al1,1.0,2019-04-01
+328722,market_acquisition,cottage cheese 2 milkfat store brandother brand friendship fl1,1.0,2019-04-01
+328723,market_acquisition,cottage cheese 2 milkfat store brandother brand horizon organic in1,1.0,2019-04-01
+328730,market_acquisition,cottage cheese 2 milkfat store brandother brand friendship all natural ny1,1.0,2019-04-01
+328737,market_acquisition,cottage cheese 2 milkfat daisy mo1,1.0,2019-04-01
+328739,market_acquisition,cottage cheese 2 milkfat daisy ct1,1.0,2019-04-01
+328752,market_acquisition,cottage cheese 2 milkfat knudsen ca1,1.0,2019-04-01
+328754,market_acquisition,cottage cheese 2 milkfat knudsen ca2,1.0,2019-04-01
+328770,market_acquisition,cottage cheese 2 milkfat daisy mi1,1.0,2019-04-01
+328772,market_acquisition,cottage cheese 2 milkfat daisy ny,1.0,2019-04-01
+328786,market_acquisition,cottage cheese 2 milkfat store brandother brand kraft ct1,1.0,2019-04-01
+328787,market_acquisition,cottage cheese 2 milkfat store brandother brand king soopers co1,1.0,2019-04-01
+328794,market_acquisition,cottage cheese 2 milkfat store brandother brand kroger mi1,1.0,2019-04-01
+328795,market_acquisition,cottage cheese 2 milkfat store brandother brand safeway ca1,1.0,2019-04-01
+328812,market_acquisition,cottage cheese 2 milkfat daisy in1,1.0,2019-04-01
+328825,market_acquisition,cottage cheese 2 milkfat daisy nc1,1.0,2019-04-01
+328827,market_acquisition,cottage cheese 2 milkfat store brandother brand sunnyside farms ca2,1.0,2019-04-01
+328836,sub_sample_food,fatty acids cottage cheese 2 milkfat store brandother brand sunnyside farms daisy ca2nc,1.0,2019-04-01
+328842,sample_food,mozzarella cheese low,1.0,2019-04-01
+328843,market_acquisition,mozzarella low,1.0,2019-04-01
+328847,sub_sample_food,minerals mozzarella cheese low,1.0,2019-04-01
+328848,sub_sample_food,fatty acids mozzarella cheese low,1.0,2019-04-01
+328849,sub_sample_food,proximates mozzarella cheese low,1.0,2019-04-01
+328890,sub_sample_food,tocopherols mozzarella cheese low,1.0,2019-04-01
+328891,sub_sample_food,cholesterol mozzarella cheese low,1.0,2019-04-01
+328893,sub_sample_food,niacin mozzarella cheese low,1.0,2019-04-01
+328894,sub_sample_food,riboflavin mozzarella cheese low,1.0,2019-04-01
+328895,sub_sample_food,selenium mozzarella cheese low,1.0,2019-04-01
+328896,sub_sample_food,thiamin mozzarella cheese low,1.0,2019-04-01
+328897,sub_sample_food,vitamin b6 mozzarella cheese low,1.0,2019-04-01
+328900,sub_sample_food,vitamin b12 mozzarella cheese low,1.0,2019-04-01
+328901,sub_sample_food,vitamin k mozzarella cheese low,1.0,2019-04-01
+328913,sub_sample_food,folate mozzarella cheese low,1.0,2019-04-01
+328921,sub_sample_food,pantothenic acid mozzarella cheese low,1.0,2019-04-01
+328931,sub_sample_food,retinol mozzarella cheese low,1.0,2019-04-01
+328939,sub_sample_food,sugars mozzarella cheese low,1.0,2019-04-01
+329131,sample_food,cheese string low,1.0,2019-04-01
+329135,sub_sample_food,minerals cheese string low,1.0,2019-04-01
+329136,sub_sample_food,proximates cheese string low,1.0,2019-04-01
+329137,sub_sample_food,fatty acids cheese string low,1.0,2019-04-01
+329145,sub_sample_food,pantothenic acid cheese string low,1.0,2019-04-01
+329151,sub_sample_food,niacin cheese string low,1.0,2019-04-01
+329152,sub_sample_food,riboflavin cheese string low,1.0,2019-04-01
+329153,sub_sample_food,thiamin cheese string low,1.0,2019-04-01
+329154,sub_sample_food,vitamin b6 cheese string low,1.0,2019-04-01
+329157,sub_sample_food,vitamin b12 cheese string low,1.0,2019-04-01
+329158,sub_sample_food,cholesterol cheese string low,1.0,2019-04-01
+329159,sub_sample_food,vitamin k cheese string low,1.0,2019-04-01
+329179,sub_sample_food,selenium cheese string low,1.0,2019-04-01
+329371,sample_food,egg dried whole producer d lot 3,1.0,2019-04-01
+329372,market_acquisition,dried whole egg without free,1.0,2019-04-01
+329373,sub_sample_food,whole eggs dried,1.0,2019-04-01
+329377,sub_sample_food,egg dried whole producer d,1.0,2019-04-01
+329378,sample_food,egg dried whole producer c lot 3,1.0,2019-04-01
+329385,sample_food,egg dried whole producer e lot 3,1.0,2019-04-01
+329398,sub_sample_food,egg dried whole producer c,1.0,2019-04-01
+329399,sample_food,egg dried whole producer f lot 3,1.0,2019-04-01
+329405,sub_sample_food,egg dried whole producer f,1.0,2019-04-01
+329433,sub_sample_food,egg dried whole producer e,1.0,2019-04-01
+329441,sample_food,egg dried whole producer b lot 3,1.0,2019-04-01
+329461,sub_sample_food,egg dried whole producer b,1.0,2019-04-01
+329476,sample_food,egg dried whole producer a lot 2,1.0,2019-04-01
+329491,sample_food,egg liquid yolk producer c lot 3,1.0,2019-04-01
+329492,market_acquisition,liquid egg yolk plain no salt or sugar,1.0,2019-04-01
+329493,sub_sample_food,egg yolk,1.0,2019-04-01
+329504,sub_sample_food,egg liquid yolk producer c,1.0,2019-04-01
+329505,sample_food,egg liquid yolk producer d lot 3,1.0,2019-04-01
+329511,sub_sample_food,egg liquid yolk producer d,1.0,2019-04-01
+329533,sample_food,egg liquid yolk producer f lot 3,1.0,2019-04-01
+329540,sample_food,egg liquid yolk producer b lot 3,1.0,2019-04-01
+329546,sub_sample_food,egg liquid yolk producer b,1.0,2019-04-01
+329553,sub_sample_food,egg liquid yolk producer f,1.0,2019-04-01
+329561,sample_food,egg liquid yolk producer e lot 3,1.0,2019-04-01
+329574,sub_sample_food,egg liquid yolk producer e,1.0,2019-04-01
+329597,sample_food,egg dried yolk producer c lot 3,1.0,2019-04-01
+329598,market_acquisition,dried egg yolk without free,1.0,2019-04-01
+329599,sub_sample_food,egg yolks dried,1.0,2019-04-01
+329604,sample_food,egg dried yolk producer e lot 3,1.0,2019-04-01
+329610,sub_sample_food,egg dried yolk producer e,1.0,2019-04-01
+329617,sub_sample_food,egg dried yolk producer c,1.0,2019-04-01
+329618,sample_food,egg dried yolk producer f lot 2,1.0,2019-04-01
+329646,sample_food,egg dried yolk producer b lot 3,1.0,2019-04-01
+329652,sub_sample_food,egg dried yolk producer b,1.0,2019-04-01
+329653,sample_food,egg dried yolk producer d lot 3,1.0,2019-04-01
+329659,sub_sample_food,egg dried yolk producer d,1.0,2019-04-01
+329667,sample_food,egg dried yolk producer a lot 3,1.0,2019-04-01
+329673,sub_sample_food,egg dried yolk producer a,1.0,2019-04-01
+329718,market_acquisition,dry white cheese queso seco don francisco cotija ca,1.0,2019-04-01
+329719,market_acquisition,dry white cheese queso seco cacique cotija ca,1.0,2019-04-01
+329735,market_acquisition,dry white cheese queso seco la fe cotija fl,1.0,2019-04-01
+329752,market_acquisition,dry white cheese queso seco el mexicano nv,1.0,2019-04-01
+329753,market_acquisition,dry white cheese queso seco quesos la ricura limited tm tx,1.0,2019-04-01
+329769,market_acquisition,dry white cheese queso seco el mexicano brand ca,1.0,2019-04-01
+329784,market_acquisition,dry white cheese queso seco la cremosita md,1.0,2019-04-01
+329807,market_acquisition,dry white cheese queso seco quesos la ricura limited ny,1.0,2019-04-01
+329825,sub_sample_food,sugars cheese dry white queso seco mixed composite ny tx,1.0,2019-04-01
+329830,foundation_food,cheese dry white queso seco,1.0,2019-04-01
+329831,sample_food,greek yogurt chobani plain non,1.0,2019-04-01
+329835,sub_sample_food,minerals greek yogurt chobani plain non,1.0,2019-04-01
+329836,sub_sample_food,proximates greek yogurt chobani plain non,1.0,2019-04-01
+329847,market_acquisition,greek yogurt fage plain nonfat in1,1.0,2019-04-01
+329849,market_acquisition,greek yogurt fage plain nonfat ny1,1.0,2019-04-01
+329870,sample_food,greek yogurt fage plain nonfat ok1,1.0,2019-04-01
+329874,sample_food,greek yogurt fage plain nonfat fl1,1.0,2019-04-01
+329890,sub_sample_food,tocopherols greek yogurt chobani plain non,1.0,2019-04-01
+329891,sub_sample_food,cholesterol greek yogurt chobani plain non,1.0,2019-04-01
+329893,sub_sample_food,niacin greek yogurt chobani plain non,1.0,2019-04-01
+329894,sub_sample_food,panthothenic acid greek yogurt chobani plain non,1.0,2019-04-01
+329895,sub_sample_food,riboflavin greek yogurt chobani plain non,1.0,2019-04-01
+329896,sub_sample_food,selenium greek yogurt chobani plain non,1.0,2019-04-01
+329897,sub_sample_food,thiamin greek yogurt chobani plain non,1.0,2019-04-01
+329898,sub_sample_food,vitamin b6 greek yogurt chobani plain non,1.0,2019-04-01
+329901,sub_sample_food,fatty acids greek yogurt chobani plain non,1.0,2019-04-01
+329903,sub_sample_food,vitamin b12 greek yogurt chobani plain non,1.0,2019-04-01
+329935,market_acquisition,greek yogurt fage plain nonfat ct1,1.0,2019-04-01
+329974,market_acquisition,greek yogurt fage plain nonfat ca1,1.0,2019-04-01
+329993,sample_food,greek yogurt dannon oikos plain non,1.0,2019-04-01
+330006,sub_sample_food,minerals greek yogurt dannon oikos plain non,1.0,2019-04-01
+330007,sub_sample_food,proximates greek yogurt dannon oikos plain non,1.0,2019-04-01
+330043,sub_sample_food,tocopherols greek yogurt dannon oikos plain non,1.0,2019-04-01
+330044,sub_sample_food,cholesterol greek yogurt dannon oikos plain non,1.0,2019-04-01
+330046,sub_sample_food,niacin greek yogurt dannon oikos plain non,1.0,2019-04-01
+330047,sub_sample_food,panthothenic acid greek yogurt dannon oikos plain non,1.0,2019-04-01
+330048,sub_sample_food,riboflavin greek yogurt dannon oikos plain non,1.0,2019-04-01
+330049,sub_sample_food,selenium greek yogurt dannon oikos plain non,1.0,2019-04-01
+330050,sub_sample_food,thiamin greek yogurt dannon oikos plain non,1.0,2019-04-01
+330051,sub_sample_food,vitamin b6 greek yogurt dannon oikos plain non,1.0,2019-04-01
+330052,sub_sample_food,fatty acids greek yogurt dannon oikos plain non,1.0,2019-04-01
+330054,sub_sample_food,vitamin b12 greek yogurt dannon oikos plain non,1.0,2019-04-01
+330057,market_acquisition,greek yogurt fage plain nonfat nc1,1.0,2019-04-01
+330060,market_acquisition,greek yogurt fage plain nonfat ca2,1.0,2019-04-01
+330138,sample_food,yogurt greek strawberry non,1.0,2019-04-01
+330143,sub_sample_food,minerals yogurt greek strawberry non,1.0,2019-04-01
+330144,sub_sample_food,proximates yogurt greek strawberry non,1.0,2019-04-01
+330159,sub_sample_food,pantothenic acid yogurt greek strawberry non,1.0,2019-04-01
+330160,sub_sample_food,vitamin b12 yogurt greek strawberry non,1.0,2019-04-01
+330171,sub_sample_food,niacin yogurt greek strawberry non,1.0,2019-04-01
+330173,sub_sample_food,riboflavin yogurt greek strawberry non,1.0,2019-04-01
+330174,sub_sample_food,selenium yogurt greek strawberry non,1.0,2019-04-01
+330175,sub_sample_food,sugars yogurt greek strawberry non,1.0,2019-04-01
+330176,sub_sample_food,thiamin yogurt greek strawberry non,1.0,2019-04-01
+330177,sub_sample_food,vitamin b6 yogurt greek strawberry non,1.0,2019-04-01
+330216,sub_sample_food,starch yogurt greek strawberry non,1.0,2019-04-01
+330251,sub_sample_food,fatty acids yogurt greek strawberry non,1.0,2019-04-01
+330253,sub_sample_food,tdf yogurt greek strawberry non,1.0,2019-04-01
+330256,sub_sample_food,vitamin c yogurt greek strawberry non,1.0,2019-04-01
+330459,sample_food,ground turkey 93 lean 7 fat pan,5.0,2019-04-01
+330464,sub_sample_food,total fat ground turkey 93 lean 7 fat pan,5.0,2019-04-01
+330465,sub_sample_food,protein ash moisture ground turkey 93 lean 7 fat pan,5.0,2019-04-01
+330510,sub_sample_food,thiamin ground turkey 93 lean 7 fat pan,5.0,2019-04-01
+330511,sub_sample_food,riboflavin ground turkey 93 lean 7 fat pan,5.0,2019-04-01
+330512,sub_sample_food,niacin ground turkey 93 lean 7 fat pan,5.0,2019-04-01
+330513,sub_sample_food,cholesterol ground turkey 93 lean 7 fat pan,5.0,2019-04-01
+330514,sub_sample_food,fatty acids ground turkey 93 lean 7 fat pan,5.0,2019-04-01
+330516,sub_sample_food,minerals ground turkey 93 lean 7 fat pan,5.0,2019-04-01
+330518,sub_sample_food,selenium ground turkey 93 lean 7 fat pan,5.0,2019-04-01
+330869,foundation_food,turkey ground 93 lean 7 fat pan,5.0,2019-04-01
+330870,sample_food,chicken dark meat lean only drumstick braised non,5.0,2019-04-01
+330871,market_acquisition,chicken drumsticks skin,5.0,2019-04-01
+330873,sub_sample_food,thiamin chicken dark meat lean only drumstick braised non,5.0,2019-04-01
+330874,sub_sample_food,vitamin b12 chicken dark meat lean only drumstick braised non,5.0,2019-04-01
+330875,sub_sample_food,riboflavin chicken dark meat lean only drumstick braised non,5.0,2019-04-01
+330876,sub_sample_food,proximates chicken dark meat lean only drumstick braised non,5.0,2019-04-01
+330877,sub_sample_food,niacin chicken dark meat lean only drumstick braised non,5.0,2019-04-01
+330878,sub_sample_food,vitamin b6 chicken dark meat lean only drumstick braised non,5.0,2019-04-01
+330879,sub_sample_food,cholesterol chicken dark meat lean only drumstick braised non,5.0,2019-04-01
+330880,sub_sample_food,fa chicken dark meat lean only drumstick braised non,5.0,2019-04-01
+330881,sub_sample_food,minerals chicken dark meat lean only drumstick braised non,5.0,2019-04-01
+330882,sub_sample_food,selenium chicken dark meat lean only drumstick braised non,5.0,2019-04-01
+330883,sub_sample_food,fat chicken dark meat lean only drumstick braised non,5.0,2019-04-01
+330884,sample_food,chicken skin raw from drumsticks and thighs non,5.0,2019-04-01
+330886,market_acquisition,chicken thighs skin,5.0,2019-04-01
+330906,sub_sample_food,fat chicken skin raw from drumsticks and thighs non,5.0,2019-04-01
+330909,sub_sample_food,proximates chicken skin raw from drumsticks and thighs non,5.0,2019-04-01
+330911,sub_sample_food,amino acids chicken skin raw from drumsticks and thighs non,5.0,2019-04-01
+330912,sub_sample_food,thiamin chicken skin raw from drumsticks and thighs non,5.0,2019-04-01
+330913,sub_sample_food,vitamin b12 chicken skin raw from drumsticks and thighs non,5.0,2019-04-01
+330914,sub_sample_food,riboflavin chicken skin raw from drumsticks and thighs non,5.0,2019-04-01
+330915,sub_sample_food,niacin chicken skin raw from drumsticks and thighs non,5.0,2019-04-01
+330916,sub_sample_food,vitamin b6 chicken skin raw from drumsticks and thighs non,5.0,2019-04-01
+330917,sub_sample_food,cholesterol,5.0,2019-04-01
+330918,sub_sample_food,cholesterol chicken skin raw from drumsticks and thighs non,5.0,2019-04-01
+330919,sub_sample_food,fa chicken skin raw from drumsticks and thighs non,5.0,2019-04-01
+330920,sub_sample_food,minerals chicken skin raw from drumsticks and thighs non,5.0,2019-04-01
+330921,sub_sample_food,selenium chicken skin raw from drumsticks and thighs non,5.0,2019-04-01
+330924,sample_food,chicken skin roasted from drumsticks and thighs non,5.0,2019-04-01
+330925,sub_sample_food,proximates chicken skin roasted from drumsticks and thighs non,5.0,2019-04-01
+330929,sub_sample_food,fat chicken skin roasted from drumsticks and thighs non,5.0,2019-04-01
+330934,sub_sample_food,thiamin chicken skin roasted from drumsticks and thighs non,5.0,2019-04-01
+330935,sub_sample_food,vitamin b12 chicken skin roasted from drumsticks and thighs non,5.0,2019-04-01
+330936,sub_sample_food,riboflavin chicken skin roasted from drumsticks and thighs non,5.0,2019-04-01
+330937,sub_sample_food,niacin chicken skin roasted from drumsticks and thighs non,5.0,2019-04-01
+330938,sub_sample_food,vitamin b6 chicken skin roasted from drumsticks and thighs non,5.0,2019-04-01
+330940,sub_sample_food,cholesterol chicken skin roasted from drumsticks and thighs non,5.0,2019-04-01
+330941,sub_sample_food,fa chicken skin roasted from drumsticks and thighs non,5.0,2019-04-01
+330942,sub_sample_food,minerals chicken skin roasted from drumsticks and thighs non,5.0,2019-04-01
+330943,sub_sample_food,selenium chicken skin roasted from drumsticks and thighs non,5.0,2019-04-01
+330945,sample_food,chicken skin braised from drumsticks and thighs non,5.0,2019-04-01
+330949,sub_sample_food,fat chicken skin braised from drumsticks and thighs non,5.0,2019-04-01
+330952,sub_sample_food,proximates chicken skin braised from drumsticks and thighs non,5.0,2019-04-01
+330954,sub_sample_food,thiamin chicken skin braised from drumsticks and thighs non,5.0,2019-04-01
+330955,sub_sample_food,vitamin b12 chicken skin braised from drumsticks and thighs non,5.0,2019-04-01
+330956,sub_sample_food,riboflavin chicken skin braised from drumsticks and thighs non,5.0,2019-04-01
+330957,sub_sample_food,niacin chicken skin braised from drumsticks and thighs non,5.0,2019-04-01
+330958,sub_sample_food,vitamin b6 chicken skin braised from drumsticks and thighs non,5.0,2019-04-01
+330960,sub_sample_food,cholesterol chicken skin braised from drumsticks and thighs non,5.0,2019-04-01
+330961,sub_sample_food,fa chicken skin braised from drumsticks and thighs non,5.0,2019-04-01
+330962,sub_sample_food,minerals chicken skin braised from drumsticks and thighs non,5.0,2019-04-01
+330963,sub_sample_food,selenium chicken skin braised from drumsticks and thighs non,5.0,2019-04-01
+330965,sample_food,chicken dark meat lean only drumstick raw non,5.0,2019-04-01
+330966,market_acquisition,meaures comp raw rep 1 chicken drumstick non,5.0,2019-04-01
+330967,market_acquisition,meaures comp raw rep 5 chicken drumstick non,5.0,2019-04-01
+330968,market_acquisition,meaures comp raw rep 4 chicken drumstick non,5.0,2019-04-01
+330969,market_acquisition,meaures comp raw rep 3 chicken drumstick non,5.0,2019-04-01
+330970,market_acquisition,meaures comp raw rep 2 chicken drumstick non,5.0,2019-04-01
+331020,sub_sample_food,fat chicken dark meat lean only drumstick raw non,5.0,2019-04-01
+331023,sub_sample_food,proximates chicken dark meat lean only drumstick raw non,5.0,2019-04-01
+331025,sub_sample_food,amino acids chicken dark meat lean only drumstick raw non,5.0,2019-04-01
+331026,sub_sample_food,thiamin chicken dark meat lean only drumstick raw non,5.0,2019-04-01
+331027,sub_sample_food,vitamin b12 chicken dark meat lean only drumstick raw non,5.0,2019-04-01
+331028,sub_sample_food,riboflavin chicken dark meat lean only drumstick raw non,5.0,2019-04-01
+331029,sub_sample_food,niacin chicken dark meat lean only drumstick raw non,5.0,2019-04-01
+331030,sub_sample_food,vitamin b6 chicken dark meat lean only drumstick raw non,5.0,2019-04-01
+331032,sub_sample_food,cholesterol chicken dark meat lean only drumstick raw non,5.0,2019-04-01
+331033,sub_sample_food,fa chicken dark meat lean only drumstick raw non,5.0,2019-04-01
+331034,sub_sample_food,minerals chicken dark meat lean only drumstick raw non,5.0,2019-04-01
+331035,sub_sample_food,selenium chicken dark meat lean only drumstick raw non,5.0,2019-04-01
+331038,sample_food,chicken dark meat lean only drumstick roasted non,5.0,2019-04-01
+331039,market_acquisition,meaures comp roasted rep 1 chicken drumstick non,5.0,2019-04-01
+331040,market_acquisition,meaures comp roasted rep 4 chicken drumstick non,5.0,2019-04-01
+331041,market_acquisition,meaures comp roasted rep 5 chicken drumstick non,5.0,2019-04-01
+331042,market_acquisition,meaures comp roasted rep 2 chicken drumstick non,5.0,2019-04-01
+331046,market_acquisition,meaures comp roasted rep 3 chicken drumstick non,5.0,2019-04-01
+331091,sub_sample_food,fat chicken dark meat lean only drumstick roasted non,5.0,2019-04-01
+331094,sub_sample_food,proximates chicken dark meat lean only drumstick roasted non,5.0,2019-04-01
+331096,sub_sample_food,thiamin chicken dark meat lean only drumstick roasted non,5.0,2019-04-01
+331097,sub_sample_food,vitamin b12 chicken dark meat lean only drumstick roasted non,5.0,2019-04-01
+331098,sub_sample_food,riboflavin chicken dark meat lean only drumstick roasted non,5.0,2019-04-01
+331099,sub_sample_food,niacin chicken dark meat lean only drumstick roasted non,5.0,2019-04-01
+331100,sub_sample_food,vitamin b6 chicken dark meat lean only drumstick roasted non,5.0,2019-04-01
+331102,sub_sample_food,cholesterol chicken dark meat lean only drumstick roasted non,5.0,2019-04-01
+331104,sub_sample_food,fa chicken dark meat lean only drumstick roasted non,5.0,2019-04-01
+331105,sub_sample_food,minerals chicken dark meat lean only drumstick roasted non,5.0,2019-04-01
+331106,sub_sample_food,selenium chicken dark meat lean only drumstick roasted non,5.0,2019-04-01
+331110,market_acquisition,meaures comp braised rep 3 chicken drumstick non,5.0,2019-04-01
+331111,market_acquisition,meaures comp braised rep 1 chicken drumstick non,5.0,2019-04-01
+331112,market_acquisition,meaures comp braised rep 5 chicken drumstick non,5.0,2019-04-01
+331113,market_acquisition,meaures comp braised rep 4 chicken drumstick non,5.0,2019-04-01
+331115,market_acquisition,meaures comp braised rep 2 chicken drumstick non,5.0,2019-04-01
+331180,sample_food,chicken dark meat lean only thigh raw non,5.0,2019-04-01
+331181,market_acquisition,meaures comp raw rep 3 chicken thigh non,5.0,2019-04-01
+331182,market_acquisition,meaures comp raw rep 5 chicken thigh non,5.0,2019-04-01
+331183,market_acquisition,meaures comp raw rep 1 chicken thigh non,5.0,2019-04-01
+331184,market_acquisition,meaures comp raw rep 4 chicken thigh non,5.0,2019-04-01
+331191,market_acquisition,meaures comp raw rep 2 chicken thigh non,5.0,2019-04-01
+331226,sub_sample_food,proximates chicken dark meat lean only thigh raw non,5.0,2019-04-01
+331231,sub_sample_food,fat chicken dark meat lean only thigh raw non,5.0,2019-04-01
+331235,sub_sample_food,niacin chicken dark meat lean only thigh raw non,5.0,2019-04-01
+331236,sub_sample_food,vitamin b6 chicken dark meat lean only thigh raw non,5.0,2019-04-01
+331238,sub_sample_food,cholesterol chicken dark meat lean only thigh raw non,5.0,2019-04-01
+331239,sub_sample_food,fa chicken dark meat lean only thigh raw non,5.0,2019-04-01
+331240,sub_sample_food,minerals chicken dark meat lean only thigh raw non,5.0,2019-04-01
+331241,sub_sample_food,selenium chicken dark meat lean only thigh raw non,5.0,2019-04-01
+331244,sub_sample_food,amino acids chicken dark meat lean only thigh raw non,5.0,2019-04-01
+331245,sub_sample_food,thiamin chicken dark meat lean only thigh raw non,5.0,2019-04-01
+331246,sub_sample_food,vitamin b12 chicken dark meat lean only thigh raw non,5.0,2019-04-01
+331247,sub_sample_food,riboflavin chicken dark meat lean only thigh raw non,5.0,2019-04-01
+331248,sample_food,chicken dark meat lean only thigh roasted non,5.0,2019-04-01
+331249,market_acquisition,meaures comp roasted rep 3 chicken thigh non,5.0,2019-04-01
+331251,market_acquisition,meaures comp roasted rep 2 chicken thigh non,5.0,2019-04-01
+331252,market_acquisition,meaures comp roasted rep 5 chicken thigh non,5.0,2019-04-01
+331254,market_acquisition,meaures comp roasted rep 1 chicken thigh non,5.0,2019-04-01
+331256,market_acquisition,meaures comp roasted rep 4 chicken thigh non,5.0,2019-04-01
+331296,sub_sample_food,fat chicken dark meat lean only thigh roasted non,5.0,2019-04-01
+331299,sub_sample_food,proximates chicken dark meat lean only thigh roasted non,5.0,2019-04-01
+331301,sub_sample_food,thiamin chicken dark meat lean only thigh roasted non,5.0,2019-04-01
+331302,sub_sample_food,vitamin b12 chicken dark meat lean only thigh roasted non,5.0,2019-04-01
+331303,sub_sample_food,riboflavin chicken dark meat lean only thigh roasted non,5.0,2019-04-01
+331304,sub_sample_food,niacin chicken dark meat lean only thigh roasted non,5.0,2019-04-01
+331305,sub_sample_food,vitamin b6 chicken dark meat lean only thigh roasted non,5.0,2019-04-01
+331306,sub_sample_food,cholesterol chicken dark meat lean only thigh roasted non,5.0,2019-04-01
+331307,sub_sample_food,fa chicken dark meat lean only thigh roasted non,5.0,2019-04-01
+331308,sub_sample_food,minerals chicken dark meat lean only thigh roasted non,5.0,2019-04-01
+331309,sub_sample_food,selenium chicken dark meat lean only thigh roasted non,5.0,2019-04-01
+331312,sample_food,chicken dark meat lean only thigh braised non,5.0,2019-04-01
+331313,market_acquisition,meaures comp braised rep 3 chicken thigh non,5.0,2019-04-01
+331314,market_acquisition,meaures comp braised rep 1 chicken thigh non,5.0,2019-04-01
+331316,market_acquisition,meaures comp braised rep 5 chicken thigh non,5.0,2019-04-01
+331317,market_acquisition,meaures comp braised rep 4 chicken thigh non,5.0,2019-04-01
+331323,market_acquisition,meaures comp braised rep 2 chicken thigh non,5.0,2019-04-01
+331360,sub_sample_food,fat chicken dark meat lean only thigh braised non,5.0,2019-04-01
+331363,sub_sample_food,proximates chicken dark meat lean only thigh braised non,5.0,2019-04-01
+331365,sub_sample_food,thiamin chicken dark meat lean only thigh braised non,5.0,2019-04-01
+331366,sub_sample_food,vitamin b12 chicken dark meat lean only thigh braised non,5.0,2019-04-01
+331367,sub_sample_food,riboflavin chicken dark meat lean only thigh braised non,5.0,2019-04-01
+331368,sub_sample_food,niacin chicken dark meat lean only thigh braised non,5.0,2019-04-01
+331369,sub_sample_food,vitamin b6 chicken dark meat lean only thigh braised non,5.0,2019-04-01
+331371,sub_sample_food,cholesterol chicken dark meat lean only thigh braised non,5.0,2019-04-01
+331372,sub_sample_food,fa chicken dark meat lean only thigh braised non,5.0,2019-04-01
+331373,sub_sample_food,minerals chicken dark meat lean only thigh braised non,5.0,2019-04-01
+331374,sub_sample_food,selenium chicken dark meat lean only thigh braised non,5.0,2019-04-01
+331899,market_acquisition,chicken breast non,5.0,2019-04-01
+331901,sub_sample_food,fatty acids chicken breasts boneless skinless non,5.0,2019-04-01
+331902,sub_sample_food,minerals chicken breasts boneless skinless non,5.0,2019-04-01
+331903,sub_sample_food,proximates chicken breasts boneless skinless non,5.0,2019-04-01
+331920,sub_sample_food,vitamin b12 chicken breasts boneless skinless non,5.0,2019-04-01
+331921,sub_sample_food,vitamin b6 chicken breasts boneless skinless non,5.0,2019-04-01
+331922,sub_sample_food,cholesterol chicken breasts boneless skinless non,5.0,2019-04-01
+331925,sub_sample_food,niacin chicken breasts boneless skinless non,5.0,2019-04-01
+331927,sub_sample_food,riboflavin chicken breasts boneless skinless non,5.0,2019-04-01
+331928,sub_sample_food,selenium chicken breasts boneless skinless non,5.0,2019-04-01
+331929,sub_sample_food,thiamin chicken breasts boneless skinless non,5.0,2019-04-01
+331930,sub_sample_food,tocopherol chicken breasts boneless skinless non,5.0,2019-04-01
+331940,sub_sample_food,pantothenic acid chicken breasts boneless skinless non,5.0,2019-04-01
+331962,market_acquisition,sauce pasta ragu old world bottled spaghetti sauce 26 oz container in1,6.0,2019-04-01
+331963,market_acquisition,sauce pasta ragu old world bottled spaghetti sauce 26 oz container ny1,6.0,2019-04-01
+331970,market_acquisition,sauce pasta hunts original canned spaghetti sauce 265 oz container ct1,6.0,2019-04-01
+331971,market_acquisition,sauce pasta hunts original canned spaghetti sauce 265 oz container co2,6.0,2019-04-01
+331978,market_acquisition,sauce pasta ragu old world bottled spaghetti sauce 26 oz container al1,6.0,2019-04-01
+331979,market_acquisition,sauce pasta ragu old world bottled spaghetti sauce 26 oz container ca1,6.0,2019-04-01
+331986,market_acquisition,sauce pasta ragu old world bottled spaghetti sauce 26 oz container mo1,6.0,2019-04-01
+331987,market_acquisition,sauce pasta ragu old world bottled spaghetti sauce 26 oz container fl1,6.0,2019-04-01
+332014,market_acquisition,sauce pasta ragu old world bottled spaghetti sauce 26 oz container ca2,6.0,2019-04-01
+332018,market_acquisition,sauce pasta ragu old world bottled spaghetti sauce 26 oz container nc1,6.0,2019-04-01
+332023,market_acquisition,sauce pasta ragu old world bottled spaghetti sauce 26 oz container co2,6.0,2019-04-01
+332036,market_acquisition,sauce pasta ragu old world bottled spaghetti sauce 26 oz container ct1,6.0,2019-04-01
+332041,market_acquisition,sauce pasta ragu old world bottled spaghetti sauce 26 oz container ok1,6.0,2019-04-01
+332042,market_acquisition,sauce pasta ragu old world bottled spaghetti sauce 26 oz container mi1,6.0,2019-04-01
+332069,market_acquisition,sauce pasta prego 100 natural italian traditional bottled spaghetti sauce 24 oz container ca1,6.0,2019-04-01
+332070,market_acquisition,sauce pasta prego 100 natural italian traditional bottled spaghetti sauce 24 oz container al1,6.0,2019-04-01
+332077,market_acquisition,sauce pasta prego 100 natural italian traditional bottled spaghetti sauce 24 oz container ny1,6.0,2019-04-01
+332078,market_acquisition,sauce pasta prego 100 natural italian traditional bottled spaghetti sauce 24 oz container in1,6.0,2019-04-01
+332085,market_acquisition,sauce pasta prego 100 natural italian traditional bottled spaghetti sauce 24 oz container nc1,6.0,2019-04-01
+332086,market_acquisition,sauce pasta prego 100 natural italian traditional bottled spaghetti sauce 24 oz container ca2,6.0,2019-04-01
+332093,market_acquisition,sauce pasta prego 100 natural italian traditional bottled spaghetti sauce 24 oz container fl1,6.0,2019-04-01
+332094,market_acquisition,sauce pasta prego 100 natural italian traditional bottled spaghetti sauce 24 oz container mo1,6.0,2019-04-01
+332101,market_acquisition,sauce pasta prego 100 natural italian traditional bottled spaghetti sauce 24 oz container ok1,6.0,2019-04-01
+332102,market_acquisition,sauce pasta prego 100 natural italian traditional bottled spaghetti sauce 24 oz container mi1,6.0,2019-04-01
+332129,market_acquisition,sauce pasta prego 100 natural italian traditional bottled spaghetti sauce 24 oz container co2,6.0,2019-04-01
+332155,market_acquisition,sauce pasta prego 100 natural italian traditional bottled spaghetti sauce 24 oz container ct1,6.0,2019-04-01
+332183,market_acquisition,sauce pasta hunts original canned spaghetti sauce 265 oz container ny1,6.0,2019-04-01
+332184,market_acquisition,sauce pasta hunts original canned spaghetti sauce 265 oz container in1,6.0,2019-04-01
+332191,market_acquisition,sauce pasta hunts original canned spaghetti sauce 265 oz container fl1,6.0,2019-04-01
+332192,market_acquisition,sauce pasta hunts original canned spaghetti sauce 265 oz container mo1,6.0,2019-04-01
+332199,market_acquisition,sauce pasta hunts original canned spaghetti sauce 265 oz container ca2,6.0,2019-04-01
+332200,market_acquisition,sauce pasta hunts original canned spaghetti sauce 265 oz container nc1,6.0,2019-04-01
+332207,market_acquisition,sauce pasta hunts original canned spaghetti sauce 265 oz container ca1,6.0,2019-04-01
+332208,market_acquisition,sauce pasta hunts original canned spaghetti sauce 265 oz container al1,6.0,2019-04-01
+332215,market_acquisition,sauce pasta hunts original canned spaghetti sauce 265 oz container mi1,6.0,2019-04-01
+332216,market_acquisition,sauce pasta hunts original canned spaghetti sauce 265 oz container ok1,6.0,2019-04-01
+332283,sample_food,ham luncheon meat oscar mayer deli fresh,7.0,2019-04-01
+332287,sub_sample_food,lunchmeat ham,7.0,2019-04-01
+332314,sample_food,ham luncheon meat hillshire farms deli select ultra thin,7.0,2019-04-01
+332365,sample_food,ham luncheon meat store brand,7.0,2019-04-01
+332568,sub_sample_food,bartlett pears pass 2 freeze dried regions 1 4 na yes,9.0,2019-04-01
+332570,sub_sample_food,pears bartlett pass 2 regions 1 4 na yes,9.0,2019-04-01
+332584,sub_sample_food,bartlett pears pass 2 freeze dried regions 2 3 na yes,9.0,2019-04-01
+332586,sub_sample_food,pears bartlett pass 2 regions 2 3 na yes,9.0,2019-04-01
+332598,sample_food,olives green manzanilla stuffed with pimentos mario,9.0,2019-04-01
+332601,sub_sample_food,olives green stuffed with pimentos,9.0,2019-04-01
+332603,sub_sample_food,olives green manzanilla mario,9.0,2019-04-01
+332613,sample_food,olives green manzanilla stuffed with pimentos lindsay,9.0,2019-04-01
+332622,sub_sample_food,olives green manzanilla lindsay,9.0,2019-04-01
+332623,sample_food,olives green manzanilla stuffed with pimentos store brand,9.0,2019-04-01
+332632,sub_sample_food,olives green manzanilla store brand,9.0,2019-04-01
+332705,sample_food,olives green manzanilla stuffed with pimentos great value,9.0,2019-04-01
+332715,sub_sample_food,olives green manzanilla store brand great value,9.0,2019-04-01
+332754,sample_food,olives green manzanilla stuffed with pimentos star,9.0,2019-04-01
+332771,sample_food,olives green manzanilla stuffed with pimentos roland,9.0,2019-04-01
+332792,sample_food,chorizo pork sausage mixed brand cooked,7.0,2019-04-01
+332820,sub_sample_food,chorizo pork sausage cooked,7.0,2019-04-01
+332846,sample_food,chorizo pork sausage johnsonville cooked,7.0,2019-04-01
+332864,foundation_food,sausage pork chorizo link or ground cooked pan,7.0,2019-04-01
+332865,sample_food,oatmeal cookies with raisins pepperidge farm soft baked,18.0,2019-04-01
+332880,sample_food,oatmeal cookies with raisins storeother brand,18.0,2019-04-01
+332903,sub_sample_food,oatmeal cookies with raisins packaged,18.0,2019-04-01
+333010,market_acquisition,tomatoes diced canned hunts in,11.0,2019-04-01
+333017,market_acquisition,tomatoes diced canned hunts ca,11.0,2019-04-01
+333018,market_acquisition,tomatoes diced canned hunts al,11.0,2019-04-01
+333024,market_acquisition,tomatoes diced canned hunts co,11.0,2019-04-01
+333025,market_acquisition,tomatoes diced canned hunts ct,11.0,2019-04-01
+333031,market_acquisition,tomatoes diced canned hunts nc,11.0,2019-04-01
+333039,market_acquisition,tomatoes diced canned hunts fl,11.0,2019-04-01
+333040,market_acquisition,tomatoes diced canned hunts mo,11.0,2019-04-01
+333047,market_acquisition,tomatoes diced canned hunts ok,11.0,2019-04-01
+333048,market_acquisition,tomatoes diced canned hunts mi,11.0,2019-04-01
+333054,market_acquisition,tomatoes diced canned store brand great value al,11.0,2019-04-01
+333056,market_acquisition,tomatoes diced canned store brand sw premium ca,11.0,2019-04-01
+333061,market_acquisition,tomatoes diced canned del monte ny,11.0,2019-04-01
+333062,market_acquisition,tomatoes diced canned del monte nc,11.0,2019-04-01
+333069,market_acquisition,tomatoes diced canned value time ca,11.0,2019-04-01
+333076,market_acquisition,tomatoes diced canned del monte ct,11.0,2019-04-01
+333078,market_acquisition,tomatoes diced canned del monte co,11.0,2019-04-01
+333083,market_acquisition,tomatoes diced canned del monte mo,11.0,2019-04-01
+333084,market_acquisition,tomatoes diced canned del monte fl,11.0,2019-04-01
+333091,market_acquisition,tomatoes diced canned del monte ok,11.0,2019-04-01
+333092,market_acquisition,tomatoes diced canned del monte mi,11.0,2019-04-01
+333098,market_acquisition,tomatoes diced canned store brand kroger brand in,11.0,2019-04-01
+333099,market_acquisition,tomatoes diced canned store brand kroger brand mi,11.0,2019-04-01
+333106,market_acquisition,tomatoes diced canned store brand great value ok,11.0,2019-04-01
+333112,market_acquisition,tomatoes diced canned store brand big daisy ct,11.0,2019-04-01
+333113,market_acquisition,tomatoes diced canned store brand safeway kitchens 100 natural tomatoes co,11.0,2019-04-01
+333119,market_acquisition,tomatoes diced canned store brand vine ripe nc,11.0,2019-04-01
+333120,market_acquisition,tomatoes diced canned store brand sunny select ca,11.0,2019-04-01
+333127,market_acquisition,tomatoes diced canned store brand americas choice ny,11.0,2019-04-01
+333128,market_acquisition,tomatoes diced canned store brand hytop premium quality ca,11.0,2019-04-01
+333133,sample_food,tomatoes canned diced hunts,11.0,2019-04-01
+333138,sub_sample_food,tomatoes canned,11.0,2019-04-01
+333174,market_acquisition,tomatoes diced canned store brand hy vee diced tomatoes mo,11.0,2019-04-01
+333175,market_acquisition,tomatoes diced canned store brand publix fl,11.0,2019-04-01
+333181,sample_food,tomatoes canned diced del monte,11.0,2019-04-01
+333226,sample_food,tomatoes canned diced store brand,11.0,2019-04-01
+333241,sample_food,tomatoes canned diced great value,11.0,2019-04-01
+333282,sample_food,haddock raw ct,15.0,2019-04-01
+333289,market_acquisition,haddock raw iceland kroger haddock fillets co,15.0,2019-04-01
+333296,market_acquisition,haddock raw imported from china kroger haddock fillets in,15.0,2019-04-01
+333302,sample_food,haddock raw ny,15.0,2019-04-01
+333309,market_acquisition,haddock raw wild caught,15.0,2019-04-01
+333317,market_acquisition,haddock raw wild caught in canada nc,15.0,2019-04-01
+333323,market_acquisition,haddock raw imported from china kroger haddock fillets mi,15.0,2019-04-01
+333376,market_acquisition,pollock raw ct alaskan pollock,15.0,2019-04-01
+333382,market_acquisition,pollock raw nc alaskan wild caught wholey alaskan pollock fillets,15.0,2019-04-01
+333394,market_acquisition,pollock raw mo wild caught product of china matlaws alaska pollock fillets,15.0,2019-04-01
+333400,market_acquisition,pollock raw co product of china wild caught aqua star alaska pollock fillets,15.0,2019-04-01
+333407,market_acquisition,pollock raw in wild caught product of china great american seafood pacific pollock fillets,15.0,2019-04-01
+333413,market_acquisition,pollock raw mi alaska pollock,15.0,2019-04-01
+333419,market_acquisition,pollock raw ny alaskan scrod fillet,15.0,2019-04-01
+333478,market_acquisition,tuna canned bumblebee chunk light in water drained solids ca,15.0,2019-04-01
+333480,market_acquisition,tuna canned bumblebee chunk light in water drained solids nc,15.0,2019-04-01
+333497,market_acquisition,tuna canned bumblebee chunk light in water drained solids fl,15.0,2019-04-01
+333498,market_acquisition,tuna canned bumblebee chunk light in water drained solids mo,15.0,2019-04-01
+333516,market_acquisition,tuna canned bumblebee chunk light in water drained solids in,15.0,2019-04-01
+333517,market_acquisition,tuna canned bumblebee chunk light in water drained solids ny,15.0,2019-04-01
+333534,market_acquisition,tuna canned bumblebee chunk light in water drained solids ct,15.0,2019-04-01
+333536,market_acquisition,tuna canned bumblebee chunk light in water drained solids co,15.0,2019-04-01
+333556,market_acquisition,tuna canned bumblebee chunk light in water drained solids al,15.0,2019-04-01
+333577,sub_sample_food,vitamin d3 and 25,15.0,2019-04-01
+333583,market_acquisition,tuna canned bumblebee chunk light in water drained solids mi,15.0,2019-04-01
+333586,market_acquisition,tuna canned bumblebee chunk light in water drained solids ok,15.0,2019-04-01
+333603,market_acquisition,tuna canned chicken of the sea chunk light in water drained solids ny,15.0,2019-04-01
+333604,market_acquisition,tuna canned chicken of the sea chunk light in water drained solids in,15.0,2019-04-01
+333622,market_acquisition,tuna canned chicken of the sea chunk light in water drained solids nc,15.0,2019-04-01
+333623,market_acquisition,tuna canned chicken of the sea chunk light in water drained solids va,15.0,2019-04-01
+333641,market_acquisition,tuna canned chicken of the sea chunk light in water drained solids fl,15.0,2019-04-01
+333642,market_acquisition,tuna canned chicken of the sea chunk light in water drained solids mo,15.0,2019-04-01
+333660,market_acquisition,tuna canned chicken of the sea chunk light in water drained solids ct,15.0,2019-04-01
+333661,market_acquisition,tuna canned chicken of the sea chunk light in water drained solids co,15.0,2019-04-01
+333680,market_acquisition,tuna canned chicken of the sea chunk light in water drained solids mi,15.0,2019-04-01
+333682,market_acquisition,tuna canned chicken of the sea chunk light in water drained solids ok,15.0,2019-04-01
+333700,market_acquisition,tuna canned starkist chunk light in water drained solids ny,15.0,2019-04-01
+333701,market_acquisition,tuna canned starkist chunk light in water drained solids in,15.0,2019-04-01
+333719,market_acquisition,tuna canned chicken of the sea chunk light in water drained solids ca,15.0,2019-04-01
+333748,market_acquisition,tuna canned starkist chunk light in water drained solids ca,15.0,2019-04-01
+333749,market_acquisition,tuna canned starkist chunk light in water drained solids nc,15.0,2019-04-01
+333767,market_acquisition,tuna canned starkist chunk light in water drained solids fl,15.0,2019-04-01
+333768,market_acquisition,tuna canned starkist chunk light in water drained solids mo,15.0,2019-04-01
+333786,market_acquisition,tuna canned starkist chunk light in water drained solids ct,15.0,2019-04-01
+333787,market_acquisition,tuna canned starkist chunk light in water drained solids co,15.0,2019-04-01
+333806,market_acquisition,tuna canned americas choice in water drained solids ny,15.0,2019-04-01
+333807,market_acquisition,tuna canned kroger in water drained solids in,15.0,2019-04-01
+333825,market_acquisition,tuna canned starkist chunk light in water drained solids mi,15.0,2019-04-01
+333826,market_acquisition,tuna canned starkist chunk light in water drained solids ok,15.0,2019-04-01
+333845,market_acquisition,tuna canned sunny select in water drained solids ca,15.0,2019-04-01
+333846,market_acquisition,tuna canned my essentials in water drained solids nc,15.0,2019-04-01
+333864,market_acquisition,tuna canned starkist chunk light in water drained solids al,15.0,2019-04-01
+333893,market_acquisition,tuna canned great value in water drained solids fl,15.0,2019-04-01
+333894,market_acquisition,tuna canned midwest country fare in water drained solids mo,15.0,2019-04-01
+333912,market_acquisition,tuna canned shop rite in water drained solids ct,15.0,2019-04-01
+333913,market_acquisition,tuna canned safeway in water drained solids co,15.0,2019-04-01
+333932,market_acquisition,tuna canned kroger in water drained solids mi,15.0,2019-04-01
+333933,market_acquisition,tuna canned great value in water drained solids ok,15.0,2019-04-01
+333951,sample_food,tuna bumble bee chunk light in water drained solids,15.0,2019-04-01
+333960,sub_sample_food,tuna chunk light canned in water drained solids,15.0,2019-04-01
+333964,market_acquisition,tuna canned great value in water drained solids al,15.0,2019-04-01
+333966,market_acquisition,tuna canned safeway in water drained solids ca,15.0,2019-04-01
+334054,sample_food,tuna chicken of the sea chunk light in water drained solids,15.0,2019-04-01
+334127,sample_food,tuna starkist chunk light in water drained solids,15.0,2019-04-01
+334208,market_acquisition,domino sugar,19.0,2019-04-01
+334241,market_acquisition,safeway fine granulated sugar granulated white ca1,19.0,2019-04-01
+334247,foundation_food,sugars granulated,19.0,2019-04-01
+334462,foundation_food,restaurant chinese sweet and sour pork,25.0,2019-04-01
+334464,market_acquisition,chinese restaurant fried rice no meat ny1,25.0,2019-04-01
+334468,market_acquisition,chinese restaurant fried rice no meat in1,25.0,2019-04-01
+334472,market_acquisition,chinese restaurant fried rice no meat al1,25.0,2019-04-01
+334482,market_acquisition,chinese restaurant fried rice no meat mo1,25.0,2019-04-01
+334483,market_acquisition,chinese restaurant fried rice no meat fl1,25.0,2019-04-01
+334487,market_acquisition,chinese restaurant fried rice no meat nc1,25.0,2019-04-01
+334490,sample_food,chinese restaurant fried rice no meat ca1,25.0,2019-04-01
+334496,market_acquisition,chinese restaurant fried rice no meat co1,25.0,2019-04-01
+334502,market_acquisition,chinese restaurant fried rice no meat ca2,25.0,2019-04-01
+334518,market_acquisition,chinese restaurant fried rice no meat mi1,25.0,2019-04-01
+334523,market_acquisition,chinese restaurant fried rice no meat ct1,25.0,2019-04-01
+334532,market_acquisition,chinese restaurant fried rice no meat ok1,25.0,2019-04-01
+334546,sample_food,tamale pork restaurant item ca,25.0,2019-04-01
+334548,sub_sample_food,minerals tamale pork ca,25.0,2019-04-01
+334549,sub_sample_food,cholesterol tamale pork ca,25.0,2019-04-01
+334550,sub_sample_food,starch tamale pork ca,25.0,2019-04-01
+334551,sub_sample_food,tdf tamale pork ca,25.0,2019-04-01
+334552,sub_sample_food,proximates tamale pork ca,25.0,2019-04-01
+334553,sub_sample_food,sugars tamale pork ca,25.0,2019-04-01
+334554,sub_sample_food,fatty acids tamale pork ca,25.0,2019-04-01
+334555,sample_food,tamale pork restaurant item tx,25.0,2019-04-01
+334556,market_acquisition,tamale pork restaurant item tonys restaurant and cantina houston tx,25.0,2019-04-01
+334559,sub_sample_food,minerals tamale pork tx,25.0,2019-04-01
+334560,sub_sample_food,cholesterol tamale pork tx,25.0,2019-04-01
+334561,sub_sample_food,starch tamale pork tx,25.0,2019-04-01
+334562,sub_sample_food,tdf tamale pork tx,25.0,2019-04-01
+334563,sub_sample_food,proximates tamale pork tx,25.0,2019-04-01
+334565,sub_sample_food,fatty acids tamale pork tx,25.0,2019-04-01
+334567,market_acquisition,tamale pork restaurant item otaez mexicatessen oakland ca,25.0,2019-04-01
+334568,market_acquisition,tamale pork restaurant item marias chicago il,25.0,2019-04-01
+334582,market_acquisition,tamale pork restaurant item el curtido hacienda heights ca,25.0,2019-04-01
+334607,market_acquisition,tamale pork restaurant item costa del sol restaurant austin tx,25.0,2019-04-01
+334629,sample_food,pupusas bean flat stuffed corn biscuit restaurant item ca,25.0,2019-04-01
+334630,market_acquisition,pupusas beans restaurant item la original oakland ca,25.0,2019-04-01
+334633,market_acquisition,pupusas beans restaurant item custcatleco chicago il,25.0,2019-04-01
+334636,sub_sample_food,minerals pupusas bean flat stuffed corn biscuit ca,25.0,2019-04-01
+334637,sub_sample_food,starch pupusas bean flat stuffed corn biscuit ca,25.0,2019-04-01
+334638,sub_sample_food,tdf pupusas bean flat stuffed corn biscuit ca,25.0,2019-04-01
+334639,sub_sample_food,fatty acids pupusas bean flat stuffed corn biscuit ca,25.0,2019-04-01
+334640,sub_sample_food,proximates pupusas bean flat stuffed corn biscuit ca,25.0,2019-04-01
+334641,sub_sample_food,sugars pupusas bean flat stuffed corn biscuit ca,25.0,2019-04-01
+334642,sample_food,pupusas bean flat stuffed corn biscuit restaurant item tx,25.0,2019-04-01
+334643,market_acquisition,pupusas beans restaurant item tonys restaurant and cantina houston tx,25.0,2019-04-01
+334646,sub_sample_food,minerals pupusas bean flat stuffed corn biscuit tx,25.0,2019-04-01
+334647,sub_sample_food,starch pupusas bean flat stuffed corn biscuit tx,25.0,2019-04-01
+334648,sub_sample_food,tdf pupusas bean flat stuffed corn biscuit tx,25.0,2019-04-01
+334649,sub_sample_food,fatty acids pupusas bean flat stuffed corn biscuit tx,25.0,2019-04-01
+334650,sub_sample_food,proximates pupusas bean flat stuffed corn biscuit tx,25.0,2019-04-01
+334651,sub_sample_food,sugars pupusas bean flat stuffed corn biscuit tx,25.0,2019-04-01
+334662,market_acquisition,pupusas beans restaurant item costa del sol restaurant austin tx,25.0,2019-04-01
+334682,market_acquisition,pupusas beans restaurant item el curtido hacienda heights ca,25.0,2019-04-01
+334722,market_acquisition,beef top loin steak boneless 0 fat trim raw tl033,13.0,2019-04-01
+334723,market_acquisition,beef top loin steak boneless 18 fat trim raw tl832,13.0,2019-04-01
+334777,sub_sample_food,vit d thiamin panto,13.0,2019-04-01
+334778,sub_sample_food,choline,13.0,2019-04-01
+334783,sub_sample_food,vit e,13.0,2019-04-01
+334849,foundation_food,beef loin top loin steak boneless lip,13.0,2019-04-01
+334851,market_acquisition,beef tenderloin roast cooked tr34,13.0,2019-04-01
+334859,sub_sample_food,cholesterol fa,13.0,2019-04-01
+334897,foundation_food,beef loin tenderloin roast separable lean only boneless trimmed to 0 fat select cooked roasted,13.0,2019-04-01
+334898,foundation_food,beef round eye of round roast boneless separable lean only trimmed to 0 fat select raw,13.0,2019-04-01
+334900,market_acquisition,beef top round roast raw rr39,13.0,2019-04-01
+334901,market_acquisition,beef top round steak raw rs38,13.0,2019-04-01
+334963,foundation_food,beef round top round roast boneless separable lean only trimmed to 0 fat select raw,13.0,2019-04-01
+334964,sample_food,beef t,13.0,2019-04-01
+334966,sub_sample_food,proximates beef t,13.0,2019-04-01
+335061,foundation_food,beef short loin t,13.0,2019-04-01
+335063,market_acquisition,beef porterhouse steak raw ph30,13.0,2019-04-01
+335109,foundation_food,beef short loin porterhouse steak separable lean only trimmed to 18 fat select raw,13.0,2019-04-01
+335111,market_acquisition,americas choice bread 100 whole wheat ny1,18.0,2019-04-01
+335112,market_acquisition,kroger bread 100 whole wheat in1,18.0,2019-04-01
+335138,market_acquisition,stroehmann dutch county bread 100 whole wheat ny1,18.0,2019-04-01
+335241,agricultural_acquisition,beans dry dark red kidney 11f,16.0,2019-04-01
+335245,foundation_food,beans dry dark red kidney 0 moisture,16.0,2019-04-01
+335246,agricultural_acquisition,beans dry pink 11f,16.0,2019-04-01
+335284,agricultural_acquisition,beans dry pink 342 0 moisture,16.0,2019-04-01
+335306,foundation_food,beans dry pink 0 moisture,16.0,2019-04-01
+335307,agricultural_acquisition,beans dry navy 11f,16.0,2019-04-01
+335419,foundation_food,beans dry navy 0 moisture,16.0,2019-04-01
+335420,agricultural_acquisition,beans dry light red kidney 11f,16.0,2019-04-01
+335422,foundation_food,beans dry light red kidney 0 moisture,16.0,2019-04-01
+335425,foundation_food,beans dry brown 0 moisture,16.0,2019-04-01
+335428,foundation_food,beans dry flor de mayo 0 moisture,16.0,2019-04-01
+335429,agricultural_acquisition,beans dry carioca 11f,16.0,2019-04-01
+335433,foundation_food,beans dry carioca 0 moisture,16.0,2019-04-01
+335434,agricultural_acquisition,beans dry tan 11f,16.0,2019-04-01
+335442,foundation_food,beans dry tan 0 moisture,16.0,2019-04-01
+335443,agricultural_acquisition,beans dry pinto 11f,16.0,2019-04-01
+335695,foundation_food,beans dry pinto 0 moisture,16.0,2019-04-01
+335696,agricultural_acquisition,beans dry small red 11f,16.0,2019-04-01
+335774,foundation_food,beans dry small red 0 moisture,16.0,2019-04-01
+335777,foundation_food,beans dry medium red 0 moisture,16.0,2019-04-01
+335778,agricultural_acquisition,beans dry cranberry 11f,16.0,2019-04-01
+335782,foundation_food,beans dry cranberry 0 moisture,16.0,2019-04-01
+335783,agricultural_acquisition,beans dry light tan 11f,16.0,2019-04-01
+335785,foundation_food,beans dry light tan 0 moisture,16.0,2019-04-01
+335786,agricultural_acquisition,beans dry black 11f,16.0,2019-04-01
+335912,foundation_food,beans dry black 0 moisture,16.0,2019-04-01
+335913,agricultural_acquisition,beans dry small white 11f,16.0,2019-04-01
+335927,foundation_food,beans dry small white 0 moisture,16.0,2019-04-01
+335930,foundation_food,beans dry red 0 moisture,16.0,2019-04-01
+335931,agricultural_acquisition,beans dry great northern 11f,16.0,2019-04-01
+336067,foundation_food,beans dry great northern 0 moisture,16.0,2019-04-01
+746786,sample_food,burger king,10.0,2019-12-16
+746788,sub_sample_food,ham,10.0,2019-12-16
+746822,sample_food,subway,10.0,2019-12-16
+746830,sample_food,panera,10.0,2019-12-16
+746845,sample_food,dunkin donuts,10.0,2019-12-16
+746953,sample_food,ihop,1.0,2019-12-16
+746955,sub_sample_food,american cheese,1.0,2019-12-16
+746992,sample_food,mcdonalds,1.0,2019-12-16
+746994,sub_sample_food,cheese american,1.0,2019-12-16
+747014,sample_food,burger king sliced processed american cheese,1.0,2019-12-16
+747055,sample_food,chick,1.0,2019-12-16
+747128,sample_food,dennys,1.0,2019-12-16
+747130,sub_sample_food,cheese,1.0,2019-12-16
+747135,sample_food,applebees,1.0,2019-12-16
+747196,sample_food,chick fil a,1.0,2019-12-16
+747451,sub_sample_food,ketchup,11.0,2019-12-16
+747465,sample_food,burger king ketchup,11.0,2019-12-16
+747694,sample_food,egg grade a large white raw fresh,1.0,2019-12-16
+747695,market_acquisition,eggs grade a large,1.0,2019-12-16
+747698,sub_sample_food,eggs whites,1.0,2019-12-16
+747709,sample_food,egg grade a large whole raw fresh,1.0,2019-12-16
+747713,sub_sample_food,eggs whole,1.0,2019-12-16
+747739,sample_food,egg grade a large yolk raw fresh,1.0,2019-12-16
+747742,sub_sample_food,eggs yolk,1.0,2019-12-16
+748237,sample_food,canola oil,4.0,2019-12-16
+748241,sub_sample_food,corn oil,4.0,2019-12-16
+748324,sample_food,vegetable oil 100 soybean oil,4.0,2019-12-16
+748326,sub_sample_food,soybean oil,4.0,2019-12-16
+748367,sample_food,olive oil extra virgin,4.0,2019-12-16
+748970,sub_sample_food,bacon cooked,10.0,2019-12-16
+748976,sub_sample_food,bacon,10.0,2019-12-16
+749044,sample_food,burger king bacon,10.0,2019-12-16
+749294,sample_food,panera bacon turkey bravo,,2019-12-16
+789772,sample_food,butter stick unsalted,1.0,2020-04-01
+789829,sample_food,flour all purpose enriched bleached,20.0,2020-04-01
+789833,sub_sample_food,flour all,20.0,2020-04-01
+789890,foundation_food,flour wheat all,20.0,2020-04-01
+789891,sample_food,flour all purpose enriched unbleached,20.0,2020-04-01
+789952,sample_food,flour all purpose unenriched unbleached organic,20.0,2020-04-01
+789963,sample_food,flour all purpose unenriched unbleached,20.0,2020-04-01
+790019,sample_food,flour whole wheat unenriched organic,20.0,2020-04-01
+790023,sub_sample_food,flour whole wheat unenriched,20.0,2020-04-01
+790086,sample_food,flour bread white enriched unbleached,20.0,2020-04-01
+790090,sub_sample_food,flour bread white enriched,20.0,2020-04-01
+790106,sample_food,flour bread white enriched unbleached organic,20.0,2020-04-01
+790147,sample_food,flour rice white,20.0,2020-04-01
+790151,sub_sample_food,flour rice white unenriched,20.0,2020-04-01
+790169,sample_food,flour rice white organic,20.0,2020-04-01
+790174,sub_sample_food,flour rice whiteunenriched,20.0,2020-04-01
+790215,sample_food,flour corn yellow fine meal enriched,20.0,2020-04-01
+790219,sub_sample_food,flour corn enriched,20.0,2020-04-01
+790277,sample_food,butter stick salted,1.0,2020-04-01
+790509,sample_food,onions red,11.0,2020-04-01
+790578,sample_food,onions yellow,11.0,2020-04-01
+790647,sample_food,bananas overripe,9.0,2020-04-01
+790745,sample_food,bananas overripe medium size,9.0,2020-04-01
+790746,market_acquisition,bananas unripe medium size,,2020-04-01
+790752,sample_food,bananas unripe extra large size,,2020-04-01
+790755,sample_food,bananas slightly ripe medium size,9.0,2020-04-01
+790760,sample_food,bananas ripe medium size,9.0,2020-04-01
+790766,sample_food,bananas ripe medium size dehydrated,,2020-04-01
+790768,sample_food,bananas ripe extra large size,,2020-04-01
+790774,foundation_food,bananas overripe raw,9.0,2020-04-01
+790775,sample_food,bananas ripe,9.0,2020-04-01
+790836,sample_food,bananas slightly ripe,9.0,2020-04-01
+790991,foundation_food,bananas ripe and slightly ripe raw,9.0,2020-04-01
+1104593,sample_food,garlic,11.0,2020-10-30
+1104648,sample_food,flour soy defatted,16.0,2020-10-30
+1104706,sample_food,flour soy full fat organic,16.0,2020-10-30
+1104716,sample_food,flour soy full fat,16.0,2020-10-30
+1104767,sample_food,flour rice brown organic,20.0,2020-10-30
+1104776,sample_food,flour rice brown,20.0,2020-10-30
+1104813,sample_food,flour rice glutenous,20.0,2020-10-30
+1104868,sample_food,flour pastry white unenriched unbleached,20.0,2020-10-30
+1104914,sample_food,onions white,11.0,2020-10-30
+1105315,sample_food,apples red delicious,9.0,2020-10-30
+1105430,foundation_food,apples red delicious with skin raw,9.0,2020-10-30
+1105431,sample_food,apples honeycrisp,9.0,2020-10-30
+1105547,foundation_food,apples honeycrisp with skin raw,9.0,2020-10-30
+1105548,sample_food,apples granny smith,9.0,2020-10-30
+1105664,foundation_food,apples granny smith with skin raw,9.0,2020-10-30
+1105665,sample_food,apples gala,9.0,2020-10-30
+1105781,foundation_food,apples gala with skin raw,9.0,2020-10-30
+1105782,sample_food,apples fuji,9.0,2020-10-30
+1105897,foundation_food,apples fuji with skin raw,9.0,2020-10-30
+1750337,foundation_food,soy milk unsweetened plain shelf stable,16.0,2021-04-28
+1750338,foundation_food,almond milk unsweetened plain shelf stable,14.0,2021-04-28
+1750344,foundation_food,mushroom lions mane,11.0,2021-04-28
+1750345,foundation_food,mushroom oyster,11.0,2021-04-28
+1750346,foundation_food,mushrooms shiitake,11.0,2021-04-28
+1750347,foundation_food,mushrooms white button,11.0,2021-04-28
+1750348,foundation_food,oil peanut,4.0,2021-04-28
+1750349,foundation_food,oil sunflower,4.0,2021-04-28
+1750350,foundation_food,oil safflower,4.0,2021-04-28
+1750351,foundation_food,oil olive extra light,4.0,2021-04-28
+1750352,foundation_food,spinach baby,11.0,2021-04-28
+1750353,foundation_food,spinach mature,11.0,2021-04-28
+1750354,foundation_food,tomato roma,11.0,2021-04-28
+1750520,sample_food,mushrooms oyster,11.0,2021-04-23
+1750536,sample_food,mushrooms lions mane,11.0,2021-04-23
+1750616,sample_food,spinach regular mature,11.0,2021-04-23
+1750648,sample_food,tomatoes roma,11.0,2021-04-23
+1757383,sub_sample_food,,16.0,2021-04-23
+2003586,foundation_food,flour 00,20.0,2021-10-28
+2003587,foundation_food,flour spelt whole grain,20.0,2021-10-28
+2003589,foundation_food,flour semolina fine,20.0,2021-10-28
+2003606,sample_food,mushrooms portabella,11.0,2021-10-15
+2003618,sample_food,mushrooms king oyster,11.0,2021-10-15
+2003634,sample_food,mushrooms hon,11.0,2021-10-15
+2003650,sample_food,mushrooms crimini,11.0,2021-10-15
+2003662,sample_food,mushrooms maitake,11.0,2021-10-15
+2003678,sample_food,mushrooms pioppini,11.0,2021-10-15
+2003694,sample_food,mushrooms enoki,11.0,2021-10-15
+2003706,sample_food,apple juice from concentrate with added vitamin c shelf stable,9.0,2021-10-15
+2003722,sample_food,grape juice purple from concentrate with added vitamin c shelf stable,9.0,2021-10-15
+2003738,sample_food,grape juice white from concentrate with added vitamin c shelf stable,9.0,2021-10-15
+2003754,sample_food,orange juice refrigerated no pulp not fortified,9.0,2021-10-15
+2003770,sample_food,orange juice refrigerated no pulp not fortified from concentrate,9.0,2021-10-15
+2003786,sample_food,grapefruit juice red refrigerated not fortified not from concentrate,9.0,2021-10-15
+2003802,sample_food,cranberry juice shelf stable from concentrate not fortified,9.0,2021-10-15
+2003818,sample_food,tomato juice shelf stable from concentrate with added ingredients,11.0,2021-10-15
+2003882,sample_food,flour semolina coarse,20.0,2021-10-15
+2003884,sample_food,flour semolina semi,20.0,2021-10-15
+2257048,sample_food,soy milk refrigerated sweetened,16.0,2022-04-28
+2257076,sample_food,almond milk refrigerated unsweetened,14.0,2022-04-28
+2257104,sample_food,oat milk refrigerated unsweetened,14.0,2022-04-28
+2258586,foundation_food,carrots mature raw,11.0,2022-04-28
+2258588,foundation_food,peppers bell green raw,11.0,2022-04-28
+2258589,foundation_food,peppers bell yellow raw,11.0,2022-04-28
+2258590,foundation_food,peppers bell red raw,11.0,2022-04-28
+2258591,foundation_food,peppers bell orange raw,11.0,2022-04-28
+2258593,sample_food,carrots baby raw peeled,11.0,2022-04-28
+2258657,sample_food,peppers bell orange raw mini,11.0,2022-04-28
+2258675,sample_food,peppers bell red raw mini,11.0,2022-04-28
+2258693,sample_food,peppers bell yellow raw mini,11.0,2022-04-28
+2259795,foundation_food,cheese parmesan grated refrigerated,1.0,2022-04-28
+2259796,foundation_food,cheese feta whole milk crumbled,1.0,2022-04-28
+2259798,sample_food,buttermilk lowfat,1.0,2022-04-28
+2259814,sample_food,yogurt greek whole milk plain,1.0,2022-04-28
+2259830,sample_food,yogurt whole milk plain,1.0,2022-04-28
+2261422,foundation_food,flour potato,11.0,2022-04-28
+2261424,sample_food,flour whole grain oat,20.0,2022-04-28
+2261440,sample_food,flour almond blanched,12.0,2022-04-28
+2262072,foundation_food,peanut butter creamy,16.0,2022-04-28
+2262074,foundation_food,almond butter creamy,12.0,2022-04-28
+2262109,sample_food,sesame seed butter tahini creamy,12.0,2022-04-28
+2262125,sample_food,ground flaxseed meal,12.0,2022-04-28
+2263888,foundation_food,raspberries raw,9.0,2022-04-28
+2263889,foundation_food,blueberries raw,9.0,2022-04-28
+2263890,foundation_food,grapes red seedless raw,9.0,2022-04-28
+2263891,foundation_food,grapes green seedless raw,9.0,2022-04-28
+2263892,foundation_food,applesauce unsweetened with added vitamin c,9.0,2022-04-28
+2263894,sample_food,strawberries fresh raw,9.0,2022-04-28
+2263910,sample_food,raspberries fresh raw,9.0,2022-04-28
+2263926,sample_food,grapes red seedless fresh raw,9.0,2022-04-28
+2263942,sample_food,grapes green seedless fresh raw,9.0,2022-04-28
+2263958,sample_food,blueberries fresh raw,9.0,2022-04-28
+2263974,sample_food,applesauce unsweetened with vit c added,9.0,2022-04-28
+2346388,foundation_food,lettuce iceberg raw,11.0,2022-10-28
+2346389,foundation_food,lettuce romaine green raw,11.0,2022-10-28
+2346390,foundation_food,lettuce leaf red raw,11.0,2022-10-28
+2346391,foundation_food,lettuce leaf green raw,11.0,2022-10-28
+2346392,foundation_food,nuts pine nuts raw,12.0,2022-10-28
+2346396,foundation_food,oats whole grain rolled old fashioned,20.0,2022-10-28
+2346397,foundation_food,oats whole grain steel cut,20.0,2022-10-28
+2346398,foundation_food,pineapple raw,9.0,2022-10-28
+2346401,foundation_food,potatoes russet without skin raw,11.0,2022-10-28
+2346402,foundation_food,potatoes red without skin raw,11.0,2022-10-28
+2346403,foundation_food,potatoes gold without skin raw,11.0,2022-10-28
+2346404,foundation_food,sweet potatoes orange flesh without skin raw,11.0,2022-10-28
+2346405,foundation_food,celery raw,11.0,2022-10-28
+2346407,foundation_food,cabbage green raw,11.0,2022-10-28
+2346408,foundation_food,cabbage red raw,11.0,2022-10-28
+2346416,sample_food,cottage cheese 4 milkfat small curd,1.0,2022-10-28
+2346432,sample_food,cottage cheese 4 milkfat large curd,1.0,2022-10-28
+2346436,sample_food,cream cheese block full fat,1.0,2022-10-28
+2346452,sample_food,heavy cream,1.0,2022-10-28
+2346468,sample_food,sour cream full fat,1.0,2022-10-28
+2346564,sample_food,nuts almonds raw whole,12.0,2022-10-28
+2346580,sample_food,nuts walnuts english raw halves,12.0,2022-10-28
+2346596,sample_food,nuts pecans raw halves,12.0,2022-10-28
+2346644,sample_food,green beans raw,11.0,2022-10-28
+2346660,sample_food,cherries dark red sweet raw,9.0,2022-10-28
+2346772,sample_food,cucumber with skin raw,11.0,2022-10-28
+2512378,foundation_food,buckwheat whole grain,20.0,2023-04-20
+2512379,foundation_food,millet whole grain,20.0,2023-04-20
+2512383,sample_food,amaranth flour,20.0,2023-04-20
+2512431,sample_food,quinoa flour,20.0,2023-04-20
+2512447,sample_food,brown rice long grain unenriched,20.0,2023-04-20
+2512463,sample_food,white rice long grain unenriched,20.0,2023-04-20
+2512479,sample_food,sorghum flour,20.0,2023-04-20
+2512495,sample_food,buckwheat flour,20.0,2023-04-20
+2512511,sample_food,rye flour,20.0,2023-04-20
+2512527,sample_food,barley flour,20.0,2023-04-20
+2512543,sample_food,cassava flour,11.0,2023-04-20
+2514745,foundation_food,pork ground raw,10.0,2023-04-20
+2514747,foundation_food,turkey ground 93 lean 7 fat raw,5.0,2023-04-20
+2514749,sample_food,beef ground grass,13.0,2023-04-20
+2514751,sample_food,beef ground 90 lean 10 fat raw,13.0,2023-04-20
+2514765,sample_food,beef ground 80 lean 20 fat raw,13.0,2023-04-20
+2514795,sample_food,chicken ground breast meat only raw,5.0,2023-04-20
+2514797,sample_food,chicken ground raw,5.0,2023-04-20
+2515376,foundation_food,peanuts raw,16.0,2023-04-20
+2515384,sample_food,brazil nuts raw,12.0,2023-04-20
+2515400,sample_food,cashews raw,12.0,2023-04-20
+2515416,sample_food,pumpkin seeds pepitas raw,12.0,2023-04-20
+2515432,sample_food,hazelnuts raw,12.0,2023-04-20
+2515448,sample_food,macadamia nuts raw,12.0,2023-04-20
+2515464,sample_food,pistachio nuts raw,12.0,2023-04-20
+2515480,sample_food,sunflower seed kernels raw,12.0,2023-04-20
+2515496,sample_food,coconut flour,12.0,2023-04-20
+2515528,sample_food,chestnut flour,12.0,2023-04-20
+2644281,foundation_food,beans cannellini dry,16.0,2023-10-26
+2644283,foundation_food,lentils dry,16.0,2023-10-26
+2644284,foundation_food,blackeye pea dry,16.0,2023-10-26
+2644312,sample_food,beans chickpeasgarbanzos dry,16.0,2023-10-26
+2644332,sample_food,lentils brown dry,16.0,2023-10-26
+2644360,sample_food,beans black canned sodium added,16.0,2023-10-26
+2644376,sample_food,beans navy canned sodium added,16.0,2023-10-26
+2644392,sample_food,beans cannellini canned sodium added,16.0,2023-10-26
+2644408,sample_food,beans chick peasgarbanzos canned sodium added,16.0,2023-10-26
+2644424,sample_food,beans kidney dark red canned sodium added sugar added,16.0,2023-10-26
+2644440,sample_food,beans kidney light red canned sodium added sugar added,16.0,2023-10-26
+2644456,sample_food,peas green sweet canned sodium added sugar added,11.0,2023-10-26
+2644472,sample_food,beans pinto canned sodium added,16.0,2023-10-26
+2644488,sample_food,beans blackeye pea canned sodium added,16.0,2023-10-26
+2644504,sample_food,beans great northern canned sodium added,16.0,2023-10-26
+2646177,sample_food,pork loin boneless,10.0,2023-10-26
+2646193,sample_food,pork tenderloin boneless,10.0,2023-10-26
+2646209,sample_food,chicken breast boneless skinless,5.0,2023-10-26
+2646225,sample_food,chicken thighs boneless skinless,5.0,2023-10-26
+2646241,sample_food,beef ribeye steak boneless,13.0,2023-10-26
+2646257,sample_food,beef top round boneless,13.0,2023-10-26
+2646273,sample_food,beef chuck roast boneless,13.0,2023-10-26
+2646289,sample_food,beef flank steak,13.0,2023-10-26
+2647437,foundation_food,yogurt plain nonfat,1.0,2023-10-26
+2647461,sample_food,monterey jack cheese block,1.0,2023-10-26
+2647477,sample_food,american pasteurized process cheese food sliced individually wrapped,1.0,2023-10-26
+2647481,sample_food,american pasteurized prepared cheese product with added vitamin d sliced individually wrapped,1.0,2023-10-26
+2647483,sample_food,american pasteurized process cheese product sliced individually wrapped,1.0,2023-10-26
+2647487,sample_food,american pasteurized process cheese food with added vitamin d sliced individually wrapped,1.0,2023-10-26
+2647493,sample_food,provolone cheese sliced non,1.0,2023-10-26
+2647505,sample_food,provolone cheese sliced smoked,1.0,2023-10-26
+2647509,sample_food,oaxaca,1.0,2023-10-26
+2647525,sample_food,fresco solid,1.0,2023-10-26
+2647541,sample_food,cotija solid,1.0,2023-10-26
+2684448,sample_food,shrimp farm raised raw tail off head off shell removed not deveined 3140 count,15.0,2024-04-18
+2684450,sample_food,shrimp farm raised raw tail off head off shell removed not deveined 2125 count,15.0,2024-04-18
+2684452,sample_food,shrimp farm raised raw tail off head off shell removed not deveined 3640 count,15.0,2024-04-18
+2684454,sample_food,shrimp farm raised raw tail off head off shell removed not deveined 2630 count,15.0,2024-04-18
+2684464,sample_food,salmon sockeye wild caught raw skin removed,15.0,2024-04-18
+2684480,sample_food,salmon atlantic farm raised raw skin removed,15.0,2024-04-18
+2684496,sample_food,tilapia farm raised raw skin removed,15.0,2024-04-18
+2684512,sample_food,cod atlantic wild caught raw skin removed,15.0,2024-04-18
+2684528,sample_food,catfish farm raised raw skin removed,15.0,2024-04-18
+2684544,sample_food,crab blue swimming lump pasteurized refrigerated,15.0,2024-04-18
+2685573,foundation_food,cauliflower raw,11.0,2024-04-18
+2685574,foundation_food,collards raw,11.0,2024-04-18
+2685575,foundation_food,brussels sprouts raw,11.0,2024-04-18
+2685576,foundation_food,beets raw,11.0,2024-04-18
+2685578,foundation_food,tomatoes whole canned solids and liquids with salt added,11.0,2024-04-18
+2685579,foundation_food,tomato sauce canned with salt added,11.0,2024-04-18
+2685580,foundation_food,tomato paste canned without salt added,11.0,2024-04-18
+2685584,sample_food,squash zucchini raw,11.0,2024-04-18
+2685600,sample_food,squash yellow raw,11.0,2024-04-18
+2685616,sample_food,squash butternut raw,11.0,2024-04-18
+2685632,sample_food,squash acorn raw,11.0,2024-04-18
+2685648,sample_food,bok choy regular not baby raw,11.0,2024-04-18
+2685728,sample_food,eggplant italian raw,11.0,2024-04-18
+2685778,sample_food,tomato paste canned double,11.0,2024-04-18
+2685792,sample_food,tomatoes crushed canned salt added,11.0,2024-04-18
+2685794,sample_food,tomatoes crushed canned no salt added,11.0,2024-04-18
+2685808,sample_food,tomato puree canned no salt added,11.0,2024-04-18
+2685820,sample_food,tomato puree canned salt added,11.0,2024-04-18
+2710820,foundation_food,bulgur dry raw,20.0,2024-10-31
+2710821,foundation_food,wild rice dry raw,20.0,2024-10-31
+2710822,foundation_food,arugula baby raw,11.0,2024-10-31
+2710825,foundation_food,rice black unenriched raw,20.0,2024-10-31
+2710828,foundation_food,farro pearled dry raw,20.0,2024-10-31
+2710829,foundation_food,fonio grain dry raw,20.0,2024-10-31
+2710831,foundation_food,kiwifruit kiwi green peeled raw,9.0,2024-10-31
+2710832,foundation_food,mandarin seedless peeled raw,9.0,2024-10-31
+2710838,foundation_food,rice red unenriched dry raw,20.0,2024-10-31
+2710839,foundation_food,sorghum bran white unenriched dry raw,20.0,2024-10-31
+2710840,foundation_food,sorghum flour white pearled unenriched dry raw,20.0,2024-10-31
+2710841,foundation_food,sorghum grain white pearled unenriched dry raw,20.0,2024-10-31
+2710842,foundation_food,sorghum whole grain white dry raw,20.0,2024-10-31
+2710845,sample_food,melons honeydew flesh only raw,9.0,2024-10-31
+2710861,sample_food,plantains green unripe peeled raw,9.0,2024-10-31
+2710873,sample_food,plantains yellow ripe peeled raw,9.0,2024-10-31
+2710885,sample_food,plantains black overripe peeled raw,9.0,2024-10-31
+2710961,sample_food,einkorn grain wheat berry dry raw,20.0,2024-10-31
+2710977,sample_food,khorasan grain wheat berry dry raw,20.0,2024-10-31
+2711041,sample_food,chia seeds whole dry raw,20.0,2024-10-31
+2711103,sample_food,corn flour masa harina white dry raw,20.0,2024-10-31
+2711107,sample_food,corn flour masa harina yellow dry raw,20.0,2024-10-31
+2711115,sample_food,mango tommy atkins peeled pit removed raw,9.0,2024-10-31
+2711131,sample_food,avocado hass peeled pit removed raw,9.0,2024-10-31
+2711147,sample_food,apricot with skin pitted raw,9.0,2024-10-31
+2711193,sample_food,asparagus green whole spear raw,11.0,2024-10-31
+2711225,sample_food,mango ataulfo peeled pit removed raw,9.0,2024-10-31
+2711241,sample_food,pear anjou green with skin seeded core removed raw,9.0,2024-10-31
+2711257,sample_food,corn sweet yellow and white kernels husked kernels cut off raw,11.0,2024-10-31
+2711273,sample_food,plum black with skin pitted raw,9.0,2024-10-31
+2727566,foundation_food,chicken drumstick meat and skin raw,5.0,2025-04-24
+2727567,foundation_food,chicken thigh meat and skin raw,5.0,2025-04-24
+2727568,foundation_food,chicken wing meat and skin raw,5.0,2025-04-24
+2727569,foundation_food,chicken breast meat and skin raw,5.0,2025-04-24
+2727570,foundation_food,lamb ground raw,17.0,2025-04-24
+2727571,foundation_food,bison ground raw,17.0,2025-04-24
+2727572,foundation_food,beef short loin ny strip steak raw,13.0,2025-04-24
+2727573,foundation_food,beef tenderloin steak raw,13.0,2025-04-24
+2727574,foundation_food,beef top sirloin steak raw,13.0,2025-04-24
+2727575,foundation_food,pork chop center cut raw,10.0,2025-04-24
+2727576,foundation_food,pork belly with skin raw,10.0,2025-04-24
+2727577,foundation_food,pawpaw peeled seeded raw,9.0,2025-04-24
+2727578,foundation_food,squash pie pumpkin peeled seeded raw,11.0,2025-04-24
+2727579,foundation_food,squash spaghetti peeled seeded raw,11.0,2025-04-24
+2727580,foundation_food,rutabaga peeled raw,11.0,2025-04-24
+2727581,foundation_food,blackberries raw,9.0,2025-04-24
+2727582,foundation_food,tomatillos dehusked raw,11.0,2025-04-24
+2727583,foundation_food,cabbage napa leaf destemmed raw,11.0,2025-04-24
+2727584,foundation_food,leeks bulb and greens root removed raw,11.0,2025-04-24
+2727585,foundation_food,green onion scallion bulb and greens root removed raw,11.0,2025-04-24
+2727586,foundation_food,shallots bulb peeled root removed raw,11.0,2025-04-24
+2727588,foundation_food,juice pomegranate from concentrate shelf,9.0,2025-04-24
+2727589,foundation_food,juice tart cherry from concentrate shelf,9.0,2025-04-24
+2727799,sample_food,juice prune water extract of dried prunes shelf,9.0,2025-04-24
+2727801,sample_food,juice prune water extract of dried prunes from concentrate shelf,9.0,2025-04-24
+2727805,sample_food,juice prune from concentrate shelf,9.0,2025-04-24
+2747652,foundation_food,anchovies canned in olive oil with salt drained,15.0,2025-12-18
+2747653,foundation_food,beet greens raw,11.0,2025-12-18
+2747654,foundation_food,cod pacific or alaskan frozen wild caught,15.0,2025-12-18
+2747655,foundation_food,fennel bulb raw,11.0,2025-12-18
+2747656,foundation_food,halibut frozen wild caught,15.0,2025-12-18
+2747657,foundation_food,lobster tail only frozen wild caught,15.0,2025-12-18
+2747658,foundation_food,mahi mahi frozen wild caught,15.0,2025-12-18
+2747659,foundation_food,parsnips raw,11.0,2025-12-18
+2747660,foundation_food,peppers banana or hungarian wax seeded raw,11.0,2025-12-18
+2747661,foundation_food,peppers jalapeno seeded raw,11.0,2025-12-18
+2747662,foundation_food,peppers poblano seeded raw,11.0,2025-12-18
+2747663,foundation_food,peppers serrano seeded raw,11.0,2025-12-18
+2747664,foundation_food,radicchio raw,11.0,2025-12-18
+2747665,foundation_food,radishes red raw,11.0,2025-12-18
+2747666,foundation_food,scallops bay patagonian frozen wild caught,15.0,2025-12-18
+2747667,foundation_food,scallops sea frozen wild caught,15.0,2025-12-18
+2747668,foundation_food,sea bass chilean frozen wild caught,15.0,2025-12-18
+2747669,foundation_food,snapper frozen wild caught,15.0,2025-12-18
+2747670,foundation_food,snow crab legs only frozen,15.0,2025-12-18
+2747671,foundation_food,squid calamari frozen tubes only,15.0,2025-12-18
+2747672,foundation_food,swordfish frozen wild caught,15.0,2025-12-18
+2747673,foundation_food,tuna ahi or yellowfin frozen wild caught,15.0,2025-12-18
+2747674,foundation_food,turnips raw,11.0,2025-12-18
+2747675,foundation_food,watermelon seedless flesh only raw,9.0,2025-12-18
+2747676,foundation_food,watermelon seedless rind only raw,9.0,2025-12-18
